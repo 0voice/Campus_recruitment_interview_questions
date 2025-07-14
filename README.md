@@ -1,4 +1,4 @@
-# 面对2026应届生的面试题整理 含视频讲解
+# 2025年最新总结，面向2026届应届生，汇总阿里、腾讯、字节、百度、美团、滴滴、米哈游、京东、华为、小米、英伟达、微软、金山等大中小厂。面试题带有视频讲解以及文字讲解，答案分析持续更新中。
 
 ---
 
@@ -355,8 +355,6 @@
 #### 2. [如何使用 gdb 调试不带调试信息的可执行程序？](https://www.bilibili.com/video/BV1jZ421K7Wf/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 3. [如何利用 AI 提高生产力？](https://www.bilibili.com/video/BV1nn4y1f7aC/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
-
-#### 4. []()
 
 ## 滴滴（含视频讲解）
 
