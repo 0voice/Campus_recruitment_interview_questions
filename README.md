@@ -1,8 +1,17 @@
 # 2025年最新总结，面向2026届应届生，汇总阿里、腾讯、字节、百度、美团、滴滴、米哈游、京东、华为、小米、英伟达、微软、金山等大中小厂。面试题带有视频讲解以及文字讲解，答案分析持续更新中。
 
+* [阿里](#1)
+* [腾讯](#2)
+* [百度](#3)
+* [网易](#4)
+* [英伟达](#5)
+* [字节](#6)
+* [京东](#7)
+* [华为](#8)
+
 ---
 
-## 阿里（含视频讲解）
+## <h3 id="1">阿里（含视频讲解）</h3> 
 
 #### 1.  [C++ Pimpl了解吗？有什么好处？](https://www.bilibili.com/video/BV1eU3RztEDB/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -20,7 +29,7 @@
 
 #### 8. [请说出TCP四次挥手的流程？以及为什么需要四次挥手？](https://www.bilibili.com/video/BV1iH4y1u7i9/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 腾讯（含视频讲解）
+## <h3 id="2">腾讯（含视频讲解）</h3> 
 
 #### 1. [如何定义只能在栈上生成对象的类](https://www.bilibili.com/video/BV1WogQzaE2t/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -90,7 +99,7 @@
 
 #### 34. [栈里面除了局部变量，函数参数 返回值，还有啥？](https://www.bilibili.com/video/BV16CKPeQE6g/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 百度（含视频讲解）
+## <h3 id="3">百度（含视频讲解）</h3> 
 
 #### 1. [并发与并行的区别？](https://www.bilibili.com/video/BV1z251zUEqk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -180,7 +189,7 @@
 
 #### 44. []()
 
-## 网易（含视频讲解）
+## <h3 id="4">网易（含视频讲解）</h3> 
 
 #### 1. [多态+内存对齐](https://www.bilibili.com/video/BV1DoMwzhETG/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -196,14 +205,14 @@
 
 #### 7. [请简述function,lambda,bind之间的关系](https://www.bilibili.com/video/BV1Rt421w76W/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 英伟达（含视频讲解）
+## <h3 id="5">英伟达（含视频讲解）</h3> 
 
 #### 1. [mutex底层原理是什么？](https://www.bilibili.com/video/BV1W9rUYxER1/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 2. [static_cast与dynamic_cast的区别？dynamic_cast的原理](https://www.bilibili.com/video/BV1ohk1YqEa2/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 
-## 字节（含视频讲解）
+## <h3 id="6">字节（含视频讲解）</h3> 
 
 #### 1. [手撕 unique_ptr](https://www.bilibili.com/video/BV11cG5zwEBU/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -241,19 +250,19 @@
 
 #### 18. []()
 
-## 京东（含视频讲解）
+## <h3 id="7">京东（含视频讲解）</h3> 
 
 #### 1. [虚函数表和虚函数表指针的创建时机](https://www.bilibili.com/video/BV1Ct421A7Dn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 2. [请简述C++类型推导用法](https://www.bilibili.com/video/BV1GE421K7JN/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 华为（含视频讲解）
+## <h3 id="8">华为（含视频讲解）</h3> 
 
 #### 1. [手撕线程池](https://www.bilibili.com/video/BV1Rbwhe3Euh/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 2. [请简述虚析构函数的作用！](https://www.bilibili.com/video/BV1wu4m1c79n/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 小红书（含视频讲解）
+## <h3 id="9">小红书（含视频讲解）</h3> 
 
 #### 1. [什么是孤儿进程和僵尸进程](https://www.bilibili.com/video/BV1KnXLYFEyQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -263,11 +272,11 @@
 
 #### 4. [如何让数据统计页面加载速度变快](https://www.bilibili.com/video/BV1z7E9zLEzv/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 微软（含视频讲解）
+## <h3 id="10">微软（含视频讲解）</h3> 
 
 #### 1. [手撕ringbuffer](https://www.bilibili.com/video/BV1MDXeYHERZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 大疆（含视频讲解）
+## <h3 id="11">大疆（含视频讲解）</h3> 
 
 #### 1. [C++什么时候生成默认拷贝构造函数？](https://www.bilibili.com/video/BV1LVxje8EF4/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -275,11 +284,11 @@
 
 #### 3. [请简述多态实现的原理](https://www.bilibili.com/video/BV1pT421y7cX/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 科大讯飞（含视频讲解）
+## <h3 id="12"> 科大讯飞（含视频讲解）</h3> 
 
 #### 1. [有一张成绩表，写个SQL查出每个班不及格的人数](https://www.bilibili.com/video/BV1oiH4eUEMG/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 快手（含视频讲解）
+## <h3 id="13">快手（含视频讲解）</h3> 
 
 #### 1. [手撕读写锁（ReadWriteLock）](https://www.bilibili.com/video/BV1fGM9zpEAn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
