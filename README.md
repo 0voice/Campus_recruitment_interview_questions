@@ -1,2 +1,1 @@
-# Campus_recruitment_interview_questions
-提供给2026届毕业生的1000道最新校招题，包含大厂，中小厂，以及面经。
+# 2026 校招1000道面试题分享 包含大中小厂
