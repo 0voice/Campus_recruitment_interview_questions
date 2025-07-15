@@ -1215,6 +1215,8 @@
 
 #### [106. 多核 CPU 处理同一块数据时如何同步？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
+---
+
 ## 腾讯（含文字讲解）
 
 #### [1. Redis 和 MySQL 如何保证一致性？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
@@ -1421,6 +1423,8 @@
 
 #### [102. 算法题：最长无重复字符子串（滑动窗口）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
+---
+
 ## 阿里
 
 #### [1. JVM 内存管理与 C++ 有哪些区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
@@ -1532,3 +1536,87 @@
 #### [54. 分布式事务怎么实现？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
 #### [55. 如何手写一个简单的 RPC 框架？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+---
+
+## 京东
+
+#### [1. 分布式锁、Redisson 的实现](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [2. Redis 的数据结构有哪些？底层是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [3. JUC 中的 `synchronized` 与可重入锁（`ReentrantLock`）的区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E4%25BA%25AC%25E4%25B8%259C/readme.md)
+
+#### [4. JVM 内存结构与 GC 机制？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [5. MySQL 的使用场景？说说你的使用经验？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [6. 什么是聚集索引和非聚集索引？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [7. B+ 树是如何工作的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [8. 事务的 ACID 特性和隔离级别有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [9. 乐观锁和悲观锁的原理与适用场景？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [10. 为什么使用 Spring？Spring Boot 有哪些优势？你用过 Spring 全家桶的哪些组件？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [11. Spring 的 AOP 是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [12. 介绍一下 AOP](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [13. Spring 底层实现机制了解吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [14. 什么是动态代理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [15. Spring 框架中用到了哪些设计模式？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [16. Spring 是怎么实现事务控制的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [17. Redis 用途有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [18. 方法重载和覆写的区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [19. 堆和栈的区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [20. List 有哪些实现类，分别有什么特点？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [21. HashMap 扩容机制？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [22. JVM 启动参数用过吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [23. 数据库索引怎么使用？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [24. 数据库表怎么设计的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [25. 为什么有了基本类型还需要封装类？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [26. Java 内部类和匿名内部类的作用？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [27. Java 支持运算符重载吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [28. 如果让你实现菱形继承，你怎么做？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [29. 常见的内存泄露场景？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [30. 怎么判断链表有无环，环的大小怎么确定？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [31. DPO 和 PPO 的原理与异同？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [32. 手撕题：数组中每个长度为 k 的滑动窗口内的最大值，要求最短时间复杂度？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [33. 口述环形链表中环的长度](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [34. 口述快速排序（快排），时间复杂度](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [35. 隐马尔可夫模型（HMM）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [36. 知不知道 BM25 算法？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [37. 知不知道 Attention 机制？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [38. 手撕：反转链表](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [39. 手撕：得到两个线程的计算成果](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+#### [40. 手撕：找到数组中重复的数字和出现次数](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
