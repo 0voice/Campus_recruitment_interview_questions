@@ -14,6 +14,40 @@
 * [大疆](#11)
 * [科大讯飞](#12)
 * [快手](#13)
+* [西山居](#14)
+* [拼多多](#15)
+* [蚂蚁](#16)
+* [理想](#17)
+* [小米](#18)
+* [bilibili](#19)
+* [金山](#20)
+* [米哈游](#21)
+* [滴滴](#22)
+* [美团](#23)
+* [虎牙](#24)
+* [思必驰](#25)
+* [领跑科技](#26)
+* [元象](#27)
+* [足下科技](#28)
+* [高德](#29)
+* [360](#30)
+* [小鹏](#31)
+* [虾皮](#32)
+* [Momenta](#33)
+* [4399](#34)
+* [众图互动](#35)
+* [Todesk](#36)
+* [众图互动](#35)
+* [汇量科技](#36)
+* [迅雷](#37)
+* [私募](#38)
+* [沥泉科技](#39)
+* [好未来](#40)
+* [度小满](#41)
+* [读书郎](#42)
+* [cmstop](#43)
+* [沥泉科技](#39)
+* [沥泉科技](#39)
 
 ---
 
@@ -304,13 +338,11 @@
 
 #### 4. [手写一个单例模式代码](https://www.bilibili.com/video/BV1DxWSekEs4/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 西山居（含视频讲解）
+## <h3 id="14">西山居（含视频讲解）</h3> 
 
 #### 1. [智能指针相关面试题，shared_ptr底层实现](https://www.bilibili.com/video/BV1PWyTY2ESm/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-
-
-## 拼多多（含视频讲解）
+## <h3 id="15">拼多多（含视频讲解）</h3> 
 
 #### 1. [手撕 std::vector](https://www.bilibili.com/video/BV15HN2zpErf/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -327,15 +359,15 @@
 #### 7. [什么是内存泄露？列举检测内存泄露的方案](https://www.bilibili.com/video/BV1T3q5YpEzt/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 
-## 蚂蚁（含视频讲解）
+## <h3 id="16">蚂蚁（含视频讲解）</h3> 
 
 #### 1. [请简述进程和线程切换的区别？](https://www.bilibili.com/video/BV1eM4m1Z7SM/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 理想（含视频讲解）
+## <h3 id="17">理想（含视频讲解）</h3> 
 
 #### 1. [请说下在C++11用过哪些特性？](https://www.bilibili.com/video/BV1km421p7h7/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
 
-## 小米（含视频讲解）
+## <h3 id="18">小米（含视频讲解）</h3> 
 
 #### 1. [vector底层原理实现与扩容机制](https://www.bilibili.com/video/BV14uC6Y3Eek/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -345,7 +377,7 @@
 
 #### 4. [简述智能指针种类以及使用场景](https://www.bilibili.com/video/BV1xE421j7Tt/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## bilibili（含视频讲解）
+## <h3 id="19">bilibili（含视频讲解）</h3> 
 
 #### 1. [unique_ptr是怎么实现的？unique_ptr 和 shared_ptr 删除器的设计差异？](https://www.bilibili.com/video/BV1avknYZEZB/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -354,7 +386,7 @@
 #### 3. [逃逸分析的原理、应用场景和优缺点](https://www.bilibili.com/video/BV1TqNyzeEoc/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 
-## 金山（含视频讲解）
+## <h3 id="20">金山（含视频讲解）</h3> 
 
 #### 1. [std::sort 使用了哪种排序算法？](https://www.bilibili.com/video/BV1GZB7YrELz/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -363,7 +395,7 @@
 #### 3. [Dockerfile中实现编译和运行阶段，如果有一个依赖库不想每次都编译该怎么办](https://www.bilibili.com/video/BV1YXuMzHE6C/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 
-## 米哈游（含视频讲解）
+## <h3 id="21">米哈游（含视频讲解）</h3> 
 
 #### 1. [如何解决头文件循环包含的问题？](https://www.bilibili.com/video/BV1SvPueyEjG/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -371,7 +403,7 @@
 
 #### 3. [如何利用 AI 提高生产力？](https://www.bilibili.com/video/BV1nn4y1f7aC/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 滴滴（含视频讲解）
+## <h3 id="22">滴滴（含视频讲解）</h3> 
 
 #### 1. [C++中的友元函数和友元类有什么作用？](https://www.bilibili.com/video/BV1o5CnYKEEK/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -385,7 +417,7 @@
 
 #### 6. [发给10个协程，如何打出升序的数字](https://www.bilibili.com/video/BV1kiMmzkEBR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 美团（含视频讲解）
+## <h3 id="23">美团（含视频讲解）</h3> 
 
 #### 1. [跳表和红黑树的区别](https://www.bilibili.com/video/BV15Y59zhEMQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -405,9 +437,8 @@
 
 #### 9. [http与https的区别？加密过程中对称与非对称的区别？](https://www.bilibili.com/video/BV14Wpte6EfQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 10 .
 
-## 虎牙（含视频讲解）
+## <h3 id="24">虎牙（含视频讲解）</h3> 
 
 #### 1. [类对象的大小由哪些因素决定？](https://www.bilibili.com/video/BV1G1daYZEWa/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -419,36 +450,36 @@
 
 #### 5. [lambda 表达式底层实现原理](https://www.bilibili.com/video/BV15sq6YzEkN/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 思必驰（含视频讲解）
+## <h3 id="25">思必驰（含视频讲解）</h3> 
 
 #### 1. [C++调用C函数，C调用C++函数，原理是什么？](https://www.bilibili.com/video/BV1hUqNYKECL/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 
-## 领跑科技（含视频讲解）
+## <h3 id="26">领跑科技（含视频讲解）</h3> 
 
 #### 1. [深拷贝和浅拷贝的区别？](https://www.bilibili.com/video/BV1xCRKYgEeQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 2. [内联函数定义与宏定义的区别？](https://www.bilibili.com/video/BV1FtqUYzEx3/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 元象（含视频讲解）
+## <h3 id="27">元象（含视频讲解）</h3> 
 
 #### 1. [数据库的事务是什么？MySQL怎么满足持久性的要求？](https://www.bilibili.com/video/BV1JNtMeSEjV/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 足下科技（含视频讲解）
+## <h3 id="28">足下科技（含视频讲解）</h3> 
 
 #### 1. [动态库缺少依赖符号的排查方法](https://www.bilibili.com/video/BV1kENhefETX/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 高德（含视频讲解）
+## <h3 id="29">高德（含视频讲解）</h3> 
 
 #### 1. [请问fflush与fsync的区别？](https://www.bilibili.com/video/BV1uy411e7T5/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 360（含视频讲解）
+## <h3 id="30">360（含视频讲解）</h3> 
 
 #### 1. [auto关键字](https://www.bilibili.com/video/BV15C3Tz4EHk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
 
 #### 2. [请回答一下Reactor和Proctor的区别？](https://www.bilibili.com/video/BV1fT421D72J/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
 
-## 小鹏
+## <h3 id="30">小鹏（含视频讲解）</h3> 
 
 #### 1. [protobuf需要留意的两个使用问题](https://www.bilibili.com/video/BV1odQBY6ERP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
@@ -465,7 +496,7 @@
 #### 7. [小鹏AI Infra 后台开发：http与grpc的区别](https://www.bilibili.com/video/BV1Us92YDEb5/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 
-## 虾皮（含视频讲解）
+## <h3 id="31">虾皮（含视频讲解）</h3> 
 
 #### 1. [const和constrxpr](https://www.bilibili.com/video/BV1abMHzHEbf/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -477,7 +508,7 @@
 
 #### 5. [什么情况下会产生死锁？](https://www.bilibili.com/video/BV1ps55zYES7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## Momenta（含视频讲解）
+## <h3 id="32">Momenta（含视频讲解）</h3> 
 
 #### 1. [共享内存的用法以及使用场景](https://www.bilibili.com/video/BV1ssM3z5ELr/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -485,31 +516,31 @@
 
 #### 3. [vector和array的区别](https://www.bilibili.com/video/BV1HYTjznEGn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 4399（含视频讲解）
+## <h3 id="33">4399（含视频讲解）</h3> 
 
 #### 1. [异步日志中双缓冲区设计](https://www.bilibili.com/video/BV1TVG1zsEZk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 众图互动（含视频讲解）
+## <h3 id="34">众图互动（含视频讲解）</h3> 
 
 #### 1. [golang逃逸情况分析](https://www.bilibili.com/video/BV1mFEJzfEEj/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## Todesk（含视频讲解）
+## <h3 id="35">Todesk（含视频讲解）</h3> 
 
 #### 1. [非虚函数和虚函数的调用原理](https://www.bilibili.com/video/BV18fN4zxE4R/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 汇量科技（含视频讲解）
+## <h3 id="36">汇量科技（含视频讲解）</h3> 
 
 #### 1. [项目有没有做压测，推荐使用wrk压力测试工具](https://www.bilibili.com/video/BV1z95Vz9ELF/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 迅雷（含视频讲解）
+## <h3 id="37">迅雷（含视频讲解）</h3> 
 
 #### 1. [TCP四次挥手相关面试题，四次挥手中第二次与第三次是否能合并？](https://www.bilibili.com/video/BV1MWDzYtEmA/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 私募（含视频讲解）
+## <h3 id="38">私募（含视频讲解）</h3> 
 
 #### 1. [手撕weak_ptr](https://www.bilibili.com/video/BV1BBKHztEvE/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 沥泉科技（含视频讲解）
+## <h3 id="39">沥泉科技（含视频讲解）</h3> 
 
 #### 1. [gin框架如何使用swagger实现接口文档](https://www.bilibili.com/video/BV1HX5PzeEcB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
@@ -519,7 +550,7 @@
 
 #### 4. [formdata与binary两种方式上传文件](https://www.bilibili.com/video/BV1KbGQzBErQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 好未来（含视频讲解）
+## <h3 id="40">好未来（含视频讲解）</h3> 
 
 #### 1. [100w粉丝如何存储，如何利用Redis以及如何推送消息](https://www.bilibili.com/video/BV1xKMvzyE6q/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
@@ -527,13 +558,13 @@
 
 #### 3. [长链和短链的相互转换](https://www.bilibili.com/video/BV1iq7HzEEq2/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 度小满（含视频讲解）
+## <h3 id="41">度小满（含视频讲解）</h3> 
 
 #### 1. [对性别创建索引为什么快不了](https://www.bilibili.com/video/BV1L3jdz3Ez9/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 #### 2. [SQL语句求每个班级大于18的人数](https://www.bilibili.com/video/BV1Y7jdzTEJP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 读书郎（含视频讲解）
+## <h3 id="42">读书郎（含视频讲解）</h3> 
 
 #### 1. [Redis分布式锁的实现与优缺点](https://www.bilibili.com/video/BV1XVj9zcEvy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
@@ -547,7 +578,7 @@
 
 #### 6. [多线程编程如何识别和避免死锁](https://www.bilibili.com/video/BV1QDJizXEFu/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## cmstop（含视频讲解）
+## <h3 id="43">cmstop（含视频讲解）</h3> 
 
 #### 1. [为什么使用注册中心而不是用配置文件](https://www.bilibili.com/video/BV1GtJAz8EZN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
@@ -555,11 +586,9 @@
 
 #### 3. [切片的深拷贝与浅拷贝](https://www.bilibili.com/video/BV1KeEizrELv/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 1. []()
 
-#### 1. []()
 
-## LeetCode 经典（含视频讲解）
+## <h3 id="14">LeetCode 经典（含视频讲解）</h3> 
 
 #### 1. [手把手教你把数字翻译成字符串](https://www.bilibili.com/video/BV13r421M7ZE/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -571,7 +600,7 @@
 
 #### 5. [2G内存在20亿个整数中找到出现次数最多的数](https://www.bilibili.com/video/BV1qE421N7bu/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 技术分享（含视频讲解）
+## 技术分享（含视频讲解）<h3 id="14">西山居（含视频讲解）</h3> 
 
 #### 1. [2026届C/C++秋招保姆级攻略](https://www.bilibili.com/video/BV1wh75zgEJ9/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -641,7 +670,7 @@
 
 #### 34. [Deepseek帮忙规划的golang学习路线有哪些内容?](https://www.bilibili.com/video/BV1jXQVYiEYq/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 简历修改（含视频讲解）
+## 简历修改（含视频讲解）<h3 id="14">西山居（含视频讲解）</h3> 
 
 #### 1. [本硕211实习0 offer，想去做Qt开发推荐嘛？](https://www.bilibili.com/video/BV1637VzPELr/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -679,7 +708,7 @@
 
 #### 18. []()
 
-## c++ 相关面试题（含视频讲解）
+## <h3 id="14">c++ 相关面试题（含视频讲解）</h3> 
 
 #### 1. [请问页面置换算法有哪些？](https://www.bilibili.com/video/BV1fm42177jq/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -703,7 +732,7 @@
 
 #### 11. [左值引用与右值引用的区别？右值引用的意义？](https://www.bilibili.com/video/BV1eN4y1R7Me/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## golang 相关面试题（含视频讲解）
+## <h3 id="14">golang 相关面试题（含视频讲解）</h3> 
 
 #### 1. [golang数据结构map的两种扩容方式与疏散流程](https://www.bilibili.com/video/BV1veo1YiE5e/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
