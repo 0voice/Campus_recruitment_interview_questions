@@ -759,11 +759,7 @@
 
 #### 1. [select两个channel性能稳定，三个channel时性能会发生抖动，为什么？](https://www.bilibili.com/video/BV1EECwYDE5L/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## <h3 id="49">shopee（含视频讲解）</h3> 
-
-#### 1. [select两个channel性能稳定，三个channel时性能会发生抖动，为什么？](https://www.bilibili.com/video/BV1EECwYDE5L/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-## <h3 id="50">闪送（含视频讲解）</h3> 
+## <h3 id="49">闪送（含视频讲解）</h3> 
 
 #### 1. [Redis 的分布式锁和 Zookeeper 的分布式锁的区别](https://www.bilibili.com/video/BV1w5B5Y5EeJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
@@ -776,7 +772,7 @@
 #### 5. [map、slice未初始化操作会怎样，发生panic应该怎么办](https://www.bilibili.com/video/BV1wnqGYBEjG/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 
-## <h3 id="14">LeetCode 经典（含视频讲解）</h3> 
+## <h3 id="50">LeetCode 经典（含视频讲解）</h3> 
 
 #### 1. [手把手教你把数字翻译成字符串](https://www.bilibili.com/video/BV13r421M7ZE/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -788,7 +784,7 @@
 
 #### 5. [2G内存在20亿个整数中找到出现次数最多的数](https://www.bilibili.com/video/BV1qE421N7bu/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## <h3 id="14">技术分享（含视频讲解）</h3> 
+## <h3 id="51">技术分享（含视频讲解）</h3> 
 
 #### 1. [2026届C/C++秋招保姆级攻略](https://www.bilibili.com/video/BV1wh75zgEJ9/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -874,7 +870,7 @@
 
 #### 42. [应届毕业golang和java如何选择，来看看这9个城市的对比情况吧](https://www.bilibili.com/video/BV1Hb421e7KV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## <h3 id="14">简历修改（含视频讲解）</h3> 
+## <h3 id="52">简历修改（含视频讲解）</h3> 
 
 #### 1. [本硕211实习0 offer，想去做Qt开发推荐嘛？](https://www.bilibili.com/video/BV1637VzPELr/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -912,7 +908,7 @@
 
 #### 18. [如何写出优质的简历搞定HR获得面试机会](https://www.bilibili.com/video/BV1n142187fb/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## <h3 id="14">c++ 相关面试题（含视频讲解）</h3> 
+## <h3 id="53">c++ 相关面试题（含视频讲解）</h3> 
 
 #### 1. [请问页面置换算法有哪些？](https://www.bilibili.com/video/BV1fm42177jq/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -936,7 +932,7 @@
 
 #### 11. [左值引用与右值引用的区别？右值引用的意义？](https://www.bilibili.com/video/BV1eN4y1R7Me/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## <h3 id="14">golang 相关面试题（含视频讲解）</h3> 
+## <h3 id="54">golang 相关面试题（含视频讲解）</h3> 
 
 #### 1. [golang数据结构map的两种扩容方式与疏散流程](https://www.bilibili.com/video/BV1veo1YiE5e/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
