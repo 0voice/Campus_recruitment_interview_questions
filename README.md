@@ -142,6 +142,12 @@
 
 #### 34. [栈里面除了局部变量，函数参数 返回值，还有啥？](https://www.bilibili.com/video/BV16CKPeQE6g/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 35. [调用一个函数，说出调用函数的具体过程？](https://www.bilibili.com/video/BV1bwKWeHE4V/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 36. [golang协程调度、什么时候一定会发生线程上下文切换？](https://www.bilibili.com/video/BV1MAKWeDEYc/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 37. []()
+
 ## <h3 id="3">百度（含视频讲解）</h3> 
 
 #### 1. [并发与并行的区别？](https://www.bilibili.com/video/BV1z251zUEqk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
@@ -230,7 +236,19 @@
 
 #### 43. [分布式一致性是什么？](https://www.bilibili.com/video/BV1dwApeDEVV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 44. []()
+#### 44. [用Golang的channel实现并发控制，两个goroutine交替打印奇偶数](https://www.bilibili.com/video/BV1wywVeME2w/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 45. [hash冲突了解吗？如何解决？](https://www.bilibili.com/video/BV1kprjY4EcE/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 46. [go语言的切片和数组的区别（关系）](https://www.bilibili.com/video/BV1STrjYqEMS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 47. [go的并发编程如何避免死锁？](https://www.bilibili.com/video/BV1UurjYKE7u/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 47. [Map并发安全吗，如果是sync.map，它是如何保证并发安全？](https://www.bilibili.com/video/BV1uFrWY4EQH/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 48. [讲讲defer关键字](https://www.bilibili.com/video/BV1SZrpYoEfP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
 
 ## <h3 id="4">网易（含视频讲解）</h3> 
 
@@ -291,13 +309,39 @@
 
 #### 17. [如何设计一个朋友圈](https://www.bilibili.com/video/BV1LQLizEETB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 18. []()
+#### 18. [Redis自旋锁如何实现？](https://www.bilibili.com/video/BV1ZgkcYVEm2/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 19. [Redis SETNX与SET NX 的区别](https://www.bilibili.com/video/BV1qDrfYMEq4/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 20. [面向对象编程的三大核心概念和5大基本原则](https://www.bilibili.com/video/BV1d5UKYqEcx/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 21. [48小时内完成一个基于TCP实现一个简单的网络协议](https://www.bilibili.com/video/BV1aFmhYcE35/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
+
+
+
+
 
 ## <h3 id="7">京东（含视频讲解）</h3> 
 
 #### 1. [虚函数表和虚函数表指针的创建时机](https://www.bilibili.com/video/BV1Ct421A7Dn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 2. [请简述C++类型推导用法](https://www.bilibili.com/video/BV1GE421K7JN/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+
+#### 3. [gin框架常用中间件](https://www.bilibili.com/video/BV1vuzHY9EKR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 4. [开辟多个写协程向一个channel中写数据 是有序吗？](https://www.bilibili.com/video/BV1oZB9Y7EjX/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 5. [gin框架常用中间件](https://www.bilibili.com/video/BV1vuzHY9EKR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 6. [context的使用场景](https://www.bilibili.com/video/BV1LfB9Y2EUD/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 7. [有缓存的channel的数据接收和发送流程](https://www.bilibili.com/video/BV1oLUQYeEFP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 8. [关闭的channel数据的发送与接收](https://www.bilibili.com/video/BV1oLUQYeEFP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 9. [channel底层结构分析](https://www.bilibili.com/video/BV1gKSwYHEWK/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 ## <h3 id="8">华为（含视频讲解）</h3> 
 
@@ -397,6 +441,13 @@
 
 #### 3. [Dockerfile中实现编译和运行阶段，如果有一个依赖库不想每次都编译该怎么办](https://www.bilibili.com/video/BV1YXuMzHE6C/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 4. [什么情况下会导致goroutine泄露？](https://www.bilibili.com/video/BV1DZK3esEdK/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 5. [如何定位goroutine溢出？](https://www.bilibili.com/video/BV1TgNJeiEhN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 6. [String和byte切片的区别](https://www.bilibili.com/video/BV1AJBEY4ECB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
 
 ## <h3 id="21">米哈游（含视频讲解）</h3> 
 
@@ -482,6 +533,8 @@
 
 #### 2. [请回答一下Reactor和Proctor的区别？](https://www.bilibili.com/video/BV1fT421D72J/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
 
+#### 2. [cookie和session的区别以及分布式session的实现](https://www.bilibili.com/video/BV1V4iRY6En7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)  
+
 ## <h3 id="30">小鹏（含视频讲解）</h3> 
 
 #### 1. [protobuf需要留意的两个使用问题](https://www.bilibili.com/video/BV1odQBY6ERP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
@@ -518,6 +571,16 @@
 #### 2. [vector处理大规模数据时的优化](https://www.bilibili.com/video/BV1HYTjznEGn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 3. [vector和array的区别](https://www.bilibili.com/video/BV1HYTjznEGn/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+
+#### 4. [生产者、消费者用有缓存channel通信场景，如何让生产者和消费者退出](https://www.bilibili.com/video/BV1kZkXYAE3f/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 5. [golang中哪些数据类型是线程安全的？](https://www.bilibili.com/video/BV1rhk4YRE7R/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 6. [map可以寻址吗？](https://www.bilibili.com/video/BV1SqkzYuEZ1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 7. [map的两种扩容方式](https://www.bilibili.com/video/BV1ZEkzYHEXV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
 
 ## <h3 id="33">4399（含视频讲解）</h3> 
 
@@ -590,6 +653,77 @@
 #### 3. [切片的深拷贝与浅拷贝](https://www.bilibili.com/video/BV1KeEizrELv/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 
+## <h3 id="44">大华（含视频讲解）</h3> 
+
+#### 1. [协程如何关闭](https://www.bilibili.com/video/BV1gQNde5EEF?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 2. [CSP和共享变量通信有什么区别](https://www.bilibili.com/video/BV15jNueQEQe/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 3. [golang中哪些类型是引用类型，哪些类型是值类型](https://www.bilibili.com/video/BV1USwceLEeD/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 4. [如何判断一个结构是否实现了某个接口？](https://www.bilibili.com/video/BV1khcyeWEow/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 5. [结构体中的tag有什么作用](https://www.bilibili.com/video/BV1twc1eAErS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 6. [sync.WaitGroup底层原理](https://www.bilibili.com/video/BV14Ac1eaETW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 7. [golang有哪些同步原语？](https://www.bilibili.com/video/BV1zbrzYQEJ5/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 8. [如果chan 在有缓冲区的情况下缓冲区满了不想要后续的数据了怎么做](https://www.bilibili.com/video/BV1K5rzYwEE1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 9. [内存泄漏的场景有哪些？](https://www.bilibili.com/video/BV1PJrzYZEep/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 10. [切片的复制过程](https://www.bilibili.com/video/BV14LrzYhEgL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
+## <h3 id="45">深信服（含视频讲解）</h3> 
+
+#### 1. [协程如何关闭](https://www.bilibili.com/video/BV1gQNde5EEF?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 2. [JSON与Protobuf的区别](https://www.bilibili.com/video/BV19ww5eRENe/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 3. [golang内存逃逸有了解吗？](https://www.bilibili.com/video/BV1DAcBeEEnU/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 4. [如何获取goroutine里面的一个函数执行的返回值](https://www.bilibili.com/video/BV1bUcBemEg1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 5. [Mutex是乐观锁还是悲观锁，乐观锁和悲观锁的区别](https://www.bilibili.com/video/BV1bUcBemE7K/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 6. [for range中赋值的变量是指向临时变量还是真实的地址](https://www.bilibili.com/video/BV18ycBenEZJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 7. [先判断channel是否阻塞，再写入数据](https://www.bilibili.com/video/BV1hBcie2EMx/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 8. [如何在defer中修改方法返回值](https://www.bilibili.com/video/BV1Jpcme4EiW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+## <h3 id="46">子虔科技（含视频讲解）</h3> 
+
+#### 1. [goroutine的使用场景](https://www.bilibili.com/video/BV1ut6nY2Eb7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 2. [goroutine怎么做同步控制](https://www.bilibili.com/video/BV1FN6nYaEbp/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+## <h3 id="47">亚信安全（含视频讲解）</h3> 
+
+#### 1. [atomic应用场景以及五种操作方法](https://www.bilibili.com/video/BV1LH6VYqESh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+## <h3 id="48">shopee（含视频讲解）</h3> 
+
+#### 1. [select两个channel性能稳定，三个channel时性能会发生抖动，为什么？](https://www.bilibili.com/video/BV1EECwYDE5L/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+## <h3 id="49">shopee（含视频讲解）</h3> 
+
+#### 1. [select两个channel性能稳定，三个channel时性能会发生抖动，为什么？](https://www.bilibili.com/video/BV1EECwYDE5L/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+## <h3 id="50">闪送（含视频讲解）</h3> 
+
+#### 1. [Redis 的分布式锁和 Zookeeper 的分布式锁的区别](https://www.bilibili.com/video/BV1w5B5Y5EeJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 2. [Redis分布式锁的实现](https://www.bilibili.com/video/BV13yBTY6EPW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 3. [recover 怎么使用的，defer 相比普通的在函数最后执行操作，其优势是什么？](https://www.bilibili.com/video/BV1aDqtYAEfS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 4. [如何控制 goroutine 的生命周期，channel 的作用，context 的作用](https://www.bilibili.com/video/BV1aDqtYAEfS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 5. [map、slice未初始化操作会怎样，发生panic应该怎么办](https://www.bilibili.com/video/BV1wnqGYBEjG/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
 
 ## <h3 id="14">LeetCode 经典（含视频讲解）</h3> 
 
@@ -603,7 +737,7 @@
 
 #### 5. [2G内存在20亿个整数中找到出现次数最多的数](https://www.bilibili.com/video/BV1qE421N7bu/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-## 技术分享（含视频讲解）<h3 id="14">西山居（含视频讲解）</h3> 
+## <h3 id="14">技术分享（含视频讲解）</h3> 
 
 #### 1. [2026届C/C++秋招保姆级攻略](https://www.bilibili.com/video/BV1wh75zgEJ9/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -673,7 +807,20 @@
 
 #### 34. [Deepseek帮忙规划的golang学习路线有哪些内容?](https://www.bilibili.com/video/BV1jXQVYiEYq/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-## 简历修改（含视频讲解）<h3 id="14">西山居（含视频讲解）</h3> 
+#### 35. [golang三周速成计划书，助力你25届春招成功上岸！](https://www.bilibili.com/video/BV1ENKPemEvg/?spm_id_from=333.1387.upload.video_card.click)
+
+#### 36. [98份Golang秋招面经已经就绪！](https://www.bilibili.com/video/BV1tPKGenEN1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 37. [B站最详细的Golang基础视频教程，从0到深入（保姆级教学）小白也能学会！](https://www.bilibili.com/video/BV1euNqecEvh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 38. [golang云原生发展方向与职业规划指导（短期规划、中期规划、长期规划）](https://www.bilibili.com/video/BV1euNqecEvh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 39. [技术过硬面试很顺利为啥没能拿下offer，有哪些潜在原因](https://www.bilibili.com/video/BV158ioYjE4e/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 40. [2025届适用于春招实习、校招、应届毕业生的完整golang学习路线分享](https://www.bilibili.com/video/BV1cxSiYiESQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
+## <h3 id="14">简历修改（含视频讲解）</h3> 
 
 #### 1. [本硕211实习0 offer，想去做Qt开发推荐嘛？](https://www.bilibili.com/video/BV1637VzPELr/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
@@ -761,15 +908,41 @@
 
 #### 12. [缓存穿透、缓存击穿、缓存雪崩该如何解决](https://www.bilibili.com/video/BV1h39gY9EDx/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 7. []()
+#### 13. [golang 常见gcflags有哪些，如何查找更多的flags？](https://www.bilibili.com/video/BV1JxNJexE6s/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 7. []()
+#### 14. [sync.Map 数据写入流程以及源码解读](https://www.bilibili.com/video/BV1vJ63YcEqh/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 7. []()
+#### 8. [sync.Map 数据读取流程以及源码解读](https://www.bilibili.com/video/BV1LJ63YcEjJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 7. []()
+#### 9. [sync.map与map的区别以及sync.map的使用场景](https://www.bilibili.com/video/BV1WACaYVEmv/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 10. [sync.map数据结构以及Read与dirty的转化关系](https://www.bilibili.com/video/BV1Gn6uYQEWo/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 11. [go协程可能会引发哪些问题？](https://www.bilibili.com/video/BV1jbCPYQEF5/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 12. [怎样实现多个服务并发读写同一份数据,保证数据正确性？](https://www.bilibili.com/video/BV1KDCPYqEEz/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 13. [go实现一个消息处理协程池](https://www.bilibili.com/video/BV1sMCwYtEEy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 14. [go实现一个简单的多态](https://www.bilibili.com/video/BV1HGCwYRE1M/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 15. [进程、线程、协程、go协程的区别](https://www.bilibili.com/video/BV19UDGYxEaG/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 16. [grpc协程溢出与grpc连接池实现](https://www.bilibili.com/video/BV13QDcYREw1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 17. [关于select核心机制与使用场景分析](https://www.bilibili.com/video/BV1rnSRYQExi/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 18. [go实现一个简单的多态](https://www.bilibili.com/video/BV1HGCwYRE1M/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 19. [golang如何现场手撕协程池？](https://www.bilibili.com/video/BV1zq1sY9ELR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 20. [Printf() , Sprintf(), Fprintf()都是格式化输出，有什么不同？](https://www.bilibili.com/video/BV1nY1sY4Edm/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 21. [golang中的new和make的用法与区别](https://www.bilibili.com/video/BV1QHyoYcEQo/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 22. [golang 传值与传引用到底该如何选择？](https://www.bilibili.com/video/BV13XD2YQESY/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 23. [golang同步锁有什么特点？作用是什么？](https://www.bilibili.com/video/BV1hKyZYcEGb/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 ---
 ## 百度
 
