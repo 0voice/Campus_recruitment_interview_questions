@@ -1,5 +1,5 @@
 # 技术分享
-> 包含秋招、编程学习、面试模拟等系列内容
+> 包含秋招、编程学习、面试模拟等系列内容视频讲解
 
 #### 1. [2026届C/C++秋招保姆级攻略](https://www.bilibili.com/video/BV1wh75zgEJ9/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
