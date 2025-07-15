@@ -1217,206 +1217,206 @@
 
 ## 腾讯（含文字讲解）
 
-#### [1. Redis 和 MySQL 如何保证一致性？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%231-redis-%E5%92%8C-mysql-%25E5%25A6%2582%25E4%25BD%2595%25E4%25BF%259D%25E8%25AF%2581%25E4%25B8%2580%25E8%2587%25B4%25E6%2580%25A7%25EF%25BC%259F)
+#### [1. Redis 和 MySQL 如何保证一致性？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [2. DDD 是什么？聚合根、实体解释](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%232-ddd-%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F%25E8%2581%259A%25E5%2590%2588%25E6%25A0%25B9%25E3%2580%2581%25E5%25AE%259E%25E4%25BD%2593%25E8%25A7%25A3%25E9%2587%258A)
+#### [2. DDD 是什么？聚合根、实体解释](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [3. 慢查询优化怎么做？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%233-%25E6%2585%25A2%25E6%259F%25A5%25E8%25AF%25A2%25E4%25BC%2598%25E5%258C%2596%25E6%2580%258E%25E4%25B9%2588%25E5%2581%259A%25EF%25BC%259F)
+#### [3. 慢查询优化怎么做？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [4. 什么是聚簇索引？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%234-%25E4%25BB%2580%25E4%25B9%2588%25E6%2598%25AF%25E8%2581%259A%25E7%25B0%2587%25E7%25B4%25A2%25E5%25BC%2595%25EF%25BC%259F)
+#### [4. 什么是聚簇索引？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [5. 联合索引在什么情况下会失效？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%235-%25E8%2581%2594%25E5%2590%2588%25E7%25B4%25A2%25E5%25BC%2595%25E5%259C%25A8%25E4%25BB%2580%25E4%25B9%2588%25E6%2583%2585%25E5%2586%25B5%25E4%25B8%258B%25E4%25BC%259A%25E5%25A4%25B1%25E6%2595%2588%25EF%25BC%259F)
+#### [5. 联合索引在什么情况下会失效？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [6. Redis 持久化方式？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%236-redis-%25E6%258C%2581%25E4%25B9%2585%25E5%258C%2596%25E6%2596%25B9%25E5%25BC%258F%25EF%25BC%259F)
+#### [6. Redis 持久化方式？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [7. 跳表是什么？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%237-%25E8%25B7%25B3%25E8%25A1%25A8%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F)
+#### [7. 跳表是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [8. 缓存雪崩 / 穿透 / 击穿 概念与解决方案](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%238-%25E7%25BC%2593%25E5%25AD%2598%25E9%259B%25AA%25E5%25B4%25A9--%25E7%25A9%25BF%25E9%2580%258F--%25E5%2587%25BB%25E7%25A9%25BF-%25E6%25A6%2582%25E5%25BF%25B5%25E4%25B8%258E%25E8%25A7%25A3%25E5%2586%25B3%25E6%2596%25B9%25E6%25A1%2588)
+#### [8. 缓存雪崩 / 穿透 / 击穿 概念与解决方案](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [9. TCP 三次握手 + 四次挥手](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%239-tcp-%25E4%25B8%2589%25E6%25AC%25A1%25E6%258F%25A1%25E6%2589%258B--%25E5%259B%259B%25E6%25AC%25A1%25E6%258C%25A5%25E6%2589%258B)
+#### [9. TCP 三次握手 + 四次挥手](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [10. 拥塞窗口 vs 接收窗口](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2310-%25E6%258B%25A5%25E5%25A1%259E%25E7%25AA%2597%25E5%258F%25A3-vs-%25E6%258E%25A5%25E6%2594%25B6%25E7%25AA%2597%25E5%258F%25A3)
+#### [10. 拥塞窗口 vs 接收窗口](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [11. 拥塞窗口何时变成一半？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2311-%25E6%258B%25A5%25E5%25A1%259E%25E7%25AA%2597%25E5%258F%25A3%25E4%25BD%2595%25E6%2597%25B6%25E5%258F%2598%25E6%2588%2590%25E4%25B8%2580%25E5%258D%258A%25EF%25BC%259F)
+#### [11. 拥塞窗口何时变成一半？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [12. 对 CDN 业务的了解](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2312-%25E5%25AF%25B9-cdn-%25E4%25B8%259A%25E5%258A%25A1%25E7%259A%2584%25E4%25BA%2586%25E8%25A7%25A3)
+#### [12. 对 CDN 业务的了解](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [13. TCP 和 UDP 的区别](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2313-tcp-%25E5%2592%258C-udp-%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB)
+#### [13. TCP 和 UDP 的区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [14. 会议系统会用什么协议？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2314-%25E4%25BC%259A%25E8%25AE%25AE%25E7%25B3%25BB%25E7%25BB%259F%25E4%25BC%259A%25E7%2594%25A8%25E4%25BB%2580%25E4%25B9%2588%25E5%258D%258F%25E8%25AE%25AE%25EF%25BC%259F)
+#### [14. 会议系统会用什么协议？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [15. HTTP 和 HTTPS 的区别](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2315-http-%25E5%2592%258C-https-%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB)
+#### [15. HTTP 和 HTTPS 的区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [16. 数字证书的主要参数](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2316-%25E6%2595%25B0%25E5%25AD%2597%25E8%25AF%2581%25E4%25B9%25A6%25E7%259A%2584%25E4%25B8%25BB%25E8%25A6%2581%25E5%258F%2582%25E6%2595%25B0)
+#### [16. 数字证书的主要参数](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [17. 直播协议了解吗？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2317-%25E7%259B%25B4%25E6%2592%25AD%25E5%258D%258F%25E8%25AE%25AE%25E4%25BA%2586%25E8%25A7%25A3%25E5%2590%2597%25EF%25BC%259F)
+#### [17. 直播协议了解吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [18. HashMap 和 Hashtable 区别？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2318-hashmap-%25E5%2592%258C-hashtable-%25E5%258C%25BA%25E5%2588%25AB%25EF%25BC%259F)
+#### [18. HashMap 和 Hashtable 区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [19. 针对 Hashtable 的问题，有什么更好方案？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2319-%25E9%2592%2588%25E5%25AF%25B9-hashtable-%25E7%259A%2584%25E9%2597%25AE%25E9%25A2%2598%25EF%25BC%258C%25E6%259C%2589%25E4%25BB%2580%25E4%25B9%2588%25E6%259B%25B4%25E5%25A5%25BD%25E6%2596%25B9%25E6%25A1%2588%25EF%25BC%259F)
+#### [19. 针对 Hashtable 的问题，有什么更好方案？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [20. 线程和进程的区别？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2320-%25E7%25BA%25BF%25E7%25A8%258B%25E5%2592%258C%25E8%25BF%259B%25E7%25A8%258B%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB%25EF%25BC%259F)
+#### [20. 线程和进程的区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [21. 通信方式上线程与进程有啥区别？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2321-%25E9%2580%259A%25E4%25BF%25A1%25E6%2596%25B9%25E5%25BC%258F%25E4%25B8%258A%25E7%25BA%25BF%25E7%25A8%258B%25E4%25B8%258E%25E8%25BF%259B%25E7%25A8%258B%25E6%259C%2589%25E5%2595%25A5%25E5%258C%25BA%25E5%2588%25AB%25EF%25BC%259F)
+#### [21. 通信方式上线程与进程有啥区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [22. MySQL 索引结构？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2322-mysql-%25E7%25B4%25A2%25E5%25BC%2595%25E7%25BB%2593%25E6%259E%2584%25EF%25BC%259F)
+#### [22. MySQL 索引结构？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [23. B 树和 B+ 树的区别？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2323-b-%25E6%25A0%2591%25E5%2592%258C-b%252B-%25E6%25A0%2591%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB%25EF%25BC%259F)
+#### [23. B 树和 B+ 树的区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [24. 为什么 B+ 树更适合范围查询？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2324-%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588-b%252B-%25E6%25A0%2591%25E6%259B%25B4%25E9%2580%2582%25E5%2590%2588%25E8%258C%2583%25E5%259B%25B4%25E6%259F%25A5%25E8%25AF%25A2%25EF%25BC%259F)
+#### [24. 为什么 B+ 树更适合范围查询？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [25. MySQL 四种事务隔离级别？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2325-mysql-%25E5%259B%259B%25E7%25A7%258D%25E4%25BA%258B%25E5%258A%25A1%25E9%259A%2594%25E7%25A6%25BB%25E7%25BA%25A7%25E5%2588%25AB%25EF%25BC%259F)
+#### [25. MySQL 四种事务隔离级别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [26. MVCC 是什么？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2326-mvcc-%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F)
+#### [26. MVCC 是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [27. 索引失效的场景？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2327-%25E7%25B4%25A2%25E5%25BC%2595%25E5%25A4%25B1%25E6%2595%2588%25E7%259A%2584%25E5%259C%25BA%25E6%2599%25AF%25EF%25BC%259F)
+#### [27. 索引失效的场景？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [28. Redis 持久化方案？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2328-redis-%25E6%258C%2581%25E4%25B9%2585%25E5%258C%2596%25E6%2596%25B9%25E6%25A1%2588%25EF%25BC%259F)
+#### [28. Redis 持久化方案？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [29. 缓存雪崩 / 穿透 / 击穿](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2329-%25E7%25BC%2593%25E5%25AD%2598%25E9%259B%25AA%25E5%25B4%25A9--%25E7%25A9%25BF%25E9%2580%258F--%25E5%2587%25BB%25E7%25A9%25BF)
+#### [29. 缓存雪崩 / 穿透 / 击穿](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [30. TCP 三次握手 / 四次挥手？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2330-tcp-%25E4%25B8%2589%25E6%25AC%25A1%25E6%258F%25A1%25E6%2589%258B--%25E5%259B%259B%25E6%25AC%25A1%25E6%258C%25A5%25E6%2589%258B%25EF%25BC%259F)
+#### [30. TCP 三次握手 / 四次挥手？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [31. Linux 的常用命令？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2331-linux-%25E7%259A%2584%25E5%25B8%25B8%25E7%2594%25A8%25E5%2591%25BD%25E4%25BB%25A4%25EF%25BC%259F)
+#### [31. Linux 的常用命令？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [32. 用过 Docker 吗？常用命令？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2332-%25E7%2594%25A8%25E8%25BF%2587-docker-%25E5%2590%2597%25EF%25BC%259F%25E5%25B8%25B8%25E7%2594%25A8%25E5%2591%25BD%25E4%25BB%25A4%25EF%25BC%259F)
+#### [32. 用过 Docker 吗？常用命令？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [33. 怎么解决消息重传问题？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2333-%25E6%2580%258E%25E4%25B9%2588%25E8%25A7%25A3%25E5%2586%25B3%25E6%25B6%2588%25E6%2581%25AF%25E9%2587%258D%25E4%25BC%25A0%25E9%2597%25AE%25E9%25A2%2598%25EF%25BC%259F)
+#### [33. 怎么解决消息重传问题？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [34. 怎么做消息幂等性处理？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2334-%25E6%2580%258E%25E4%25B9%2588%25E5%2581%259A%25E6%25B6%2588%25E6%2581%25AF%25E5%25B9%2582%25E7%25AD%2589%25E6%2580%25A7%25E5%25A4%2584%25E7%2590%2586%25EF%25BC%259F)
+#### [34. 怎么做消息幂等性处理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [35. Redis 的 key 已写入，但消费者宕机了怎么办？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2335-redis-%25E7%259A%2584-key-%25E5%25B7%25B2%25E5%2586%2599%25E5%2585%25A5%25EF%25BC%258C%25E4%25BD%2586%25E6%25B6%2588%25E8%25B4%25B9%25E8%2580%2585%25E5%25B4%2587%25E6%259C%25BA%25E4%25BA%2586%25E6%2580%258E%25E4%25B9%2588%25E5%258A%259E%25EF%25BC%259F)
+#### [35. Redis 的 key 已写入，但消费者宕机了怎么办？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [36. 建立索引的 SQL 语句？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2336-%25E5%25BB%25BA%25E7%25AB%258B%25E7%25B4%25A2%25E5%25BC%2595%25E7%259A%2584-sql-%25E8%25AF%25AD%25E5%258F%25A5%25EF%25BC%259F)
+#### [36. 建立索引的 SQL 语句？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [37. TLS 握手过程（含证书验证和密钥协商）](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2337-tls-%25E6%258F%25A1%25E6%2589%258B%25E8%25BF%2587%25E7%25A8%258B%25EF%25BC%2588%25E5%2590%25AB%25E8%25AF%2581%25E4%25B9%25A6%25E9%25AA%258C%25E8%25AF%2581%25E5%2592%258C%25E5%25AF%2586%25E9%2592%25A5%25E5%258D%258F%25E5%2595%2586%25EF%25BC%2589)
+#### [37. TLS 握手过程（含证书验证和密钥协商）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [38. 对 student 表的 name 建索引：](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2338-%25E5%25AF%25B9-student-%25E8%25A1%25A8%25E7%259A%2584-name-%25E5%25BB%25BA%25E7%25B4%25A2%25E5%25BC%2595%25EF%25BC%259A)
+#### [38. 对 student 表的 name 建索引：](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [39. 主键索引 vs 普通索引](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2339-%25E4%25B8%25BB%25E9%2594%25AE%25E7%25B4%25A2%25E5%25BC%2595-vs-%25E6%2599%25AE%25E9%2580%259A%25E7%25B4%25A2%25E5%25BC%2595)
+#### [39. 主键索引 vs 普通索引](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [40. 非聚簇索引为什么要回表？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2340-%25E9%259D%259E%25E8%2581%259A%25E7%25B0%2587%25E7%25B4%25A2%25E5%25BC%2595%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588%25E8%25A6%2581%25E5%259B%259E%25E8%25A1%25A8%25EF%25BC%259F)
+#### [40. 非聚簇索引为什么要回表？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [41. MySQL 四种隔离级别](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2341-mysql-%25E5%259B%259B%25E7%25A7%258D%25E9%259A%2594%25E7%25A6%25BB%25E7%25BA%25A7%25E5%2588%25AB)
+#### [41. MySQL 四种隔离级别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [42. MySQL 主从同步原理](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2342-mysql-%25E4%25B8%25BB%25E4%25BB%258E%25E5%2590%258C%25E6%25AD%25A5%25E5%258E%259F%25E7%2590%2586)
+#### [42. MySQL 主从同步原理](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [43. binlog 存的是什么？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2343-binlog-%25E5%25AD%2598%25E7%259A%2584%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F)
+#### [43. binlog 存的是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [44. Redis 缓存雪崩是什么？怎么解决？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2344-redis-%25E7%25BC%2593%25E5%25AD%2598%25E9%259B%25AA%25E5%25B4%25A9%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F%25E6%2580%258E%25E4%25B9%2588%25E8%25A7%25A3%25E5%2586%25B3%25EF%25BC%259F)
+#### [44. Redis 缓存雪崩是什么？怎么解决？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [45. Redis 持久化方式有哪些？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2345-redis-%25E6%258C%2581%25E4%25B9%2585%25E5%258C%2596%25E6%2596%25B9%25E5%25BC%258F%25E6%259C%2589%25E5%2593%25AA%25E4%25BA%259B%25EF%25BC%259F)
+#### [45. Redis 持久化方式有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [46. HTTP 报文格式](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2346-http-%25E6%258A%25A5%25E6%2596%2587%25E6%25A0%25BC%25E5%25BC%258F)
+#### [46. HTTP 报文格式](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [47. HTTP 和 HTTPS 的区别](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2347-http-%25E5%2592%258C-https-%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB)
+#### [47. HTTP 和 HTTPS 的区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [48. TLS 握手过程简述](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2348-tls-%25E6%258F%25A1%25E6%2589%258B%25E8%25BF%2587%25E7%25A8%258B%25E7%25AE%2580%25E8%25BF%25B0)
+#### [48. TLS 握手过程简述](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [49. 为什么要结合对称加密和非对称加密？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2349-%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588%25E8%25A6%2581%25E7%25BB%2593%25E5%2590%2588%25E5%25AF%25B9%25E7%25A7%25B0%25E5%258A%25A0%25E5%25AF%2586%25E5%2592%258C%25E9%259D%259E%25E5%25AF%25B9%25E7%25A7%25B0%25E5%258A%25A0%25E5%25AF%2586%25EF%25BC%259F)
+#### [49. 为什么要结合对称加密和非对称加密？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [50. Java 面向对象三大特性](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2350-java-%25E9%259D%25A2%25E5%2590%2591%25E5%25AF%25B9%25E8%25B1%25A1%25E4%25B8%2589%25E5%25A4%25A7%25E7%2589%25B9%25E6%2580%25A7)
+#### [50. Java 面向对象三大特性](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [51. xxx.java 是如何变成二进制文件运行的？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2351-xxxjava-%25E6%2598%25AF%25E5%25A6%2582%25E4%25BD%2595%25E5%258F%2598%25E6%2588%2590%25E4%25BA%258C%25E8%25BF%259B%25E5%2588%25B6%25E6%2596%2587%25E4%25BB%25B6%25E8%25BF%2590%25E8%25A1%258C%25E7%259A%2584%25EF%25BC%259F)
+#### [51. xxx.java 是如何变成二进制文件运行的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [52. JVM 的作用是什么？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2352-jvm-%25E7%259A%2584%25E4%25BD%259C%25E7%2594%25A8%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F)
+#### [52. JVM 的作用是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [53. 线程和进程的区别](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2353-%25E7%25BA%25BF%25E7%25A8%258B%25E5%2592%258C%25E8%25BF%259B%25E7%25A8%258B%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB)
+#### [53. 线程和进程的区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [54. 协程和线程的区别](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2354-%25E5%258D%258F%25E7%25A8%258B%25E5%2592%258C%25E7%25BA%25BF%25E7%25A8%258B%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB)
+#### [54. 协程和线程的区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [55. 为什么协程更轻量？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2355-%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588%25E5%258D%258F%25E7%25A8%258B%25E6%259B%25B4%25E8%25BD%25BB%25E9%2587%258F%25EF%25BC%259F)
+#### [55. 为什么协程更轻量？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [56. 二进制文件加载进内存后的结构？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2356-%25E4%25BA%258C%25E8%25BF%259B%25E5%2588%25B6%25E6%2596%2587%25E4%25BB%25B6%25E5%258A%25A0%25E8%25BD%25BD%25E8%25BF%259B%25E5%2586%2585%25E5%25AD%2598%25E5%2590%258E%25E7%259A%2584%25E7%25BB%2593%25E6%259E%2584%25EF%25BC%259F)
+#### [56. 二进制文件加载进内存后的结构？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [57. 如何查看系统负载？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2357-%25E5%25A6%2582%25E4%25BD%2595%25E6%259F%25A5%25E7%259C%258B%25E7%25B3%25BB%25E7%25BB%259F%25E8%25B4%259F%25E8%25BD%25BD%25EF%25BC%259F)
+#### [57. 如何查看系统负载？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [58. top 命令哪些参数表示负载？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2358-top-%25E5%2591%25BD%25E4%25BB%25A4%25E5%2593%25AA%25E4%25BA%259B%25E5%258F%2582%25E6%2595%25B0%25E8%25A1%25A8%25E7%25A4%25BA%25E8%25B4%259F%25E8%25BD%25BD%25EF%25BC%259F)
+#### [58. top 命令哪些参数表示负载？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [59. Linux 如何查看 CPU 核数？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2359-linux-%25E5%25A6%2582%25E4%25BD%2595%25E6%259F%25A5%25E7%259C%258B-cpu-%25E6%25A0%25B8%25E6%2595%25B0%25EF%25BC%259F)
+#### [59. Linux 如何查看 CPU 核数？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [60. 查看当前目录空间占用](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2360-%25E6%259F%25A5%25E7%259C%258B%25E5%25BD%2593%25E5%2589%258D%25E7%259B%25AE%25E5%25BD%2595%25E7%25A9%25BA%25E9%2597%25B4%25E5%258D%25A0%25E7%2594%25A8)
+#### [60. 查看当前目录空间占用](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [61. 查看当前服务器 TCP 连接数](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2361-%25E6%259F%25A5%25E7%259C%258B%25E5%25BD%2593%25E5%2589%258D%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8-tcp-%25E8%25BF%259E%25E6%258E%25A5%25E6%2595%25B0)
+#### [61. 查看当前服务器 TCP 连接数](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [62. TCP 滑动窗口机制是什么？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2362-tcp-%25E6%25BB%2591%25E5%258A%25A8%25E7%25AA%2597%25E5%258F%25A3%25E6%259C%25BA%25E5%2588%25B6%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F)
+#### [62. TCP 滑动窗口机制是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [63. TIME\_WAIT 状态含义](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2363-time_wait-%25E7%258A%25B6%25E6%2580%2581%25E5%2590%25AB%25E4%25B9%2589)
+#### [63. TIME\_WAIT 状态含义](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [64. 为什么是四次挥手？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2364-%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588%25E6%2598%25AF%25E5%259B%259B%25E6%25AC%25A1%25E6%258C%25A5%25E6%2589%258B%25EF%25BC%259F)
+#### [64. 为什么是四次挥手？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [65. 三次握手中 ACK 和 SYN 是怎么合并的？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2365-%25E4%25B8%2589%25E6%25AC%25A1%25E6%258F%25A1%25E6%2589%258B%25E4%25B8%25AD-ack-%25E5%2592%258C-syn-%25E6%2598%25AF%25E6%2580%258E%25E4%25B9%2588%25E5%2590%2588%25E5%25B9%25B6%25E7%259A%2584%25EF%25BC%259F)
+#### [65. 三次握手中 ACK 和 SYN 是怎么合并的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [66. 容器之间是如何隔离的？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2366-%25E5%25AE%25B9%25E5%2599%25A8%25E4%25B9%258B%25E9%2597%25B4%25E6%2598%25AF%25E5%25A6%2582%25E4%25BD%2595%25E9%259A%2594%25E7%25A6%25BB%25E7%259A%2584%25EF%25BC%259F)
+#### [66. 容器之间是如何隔离的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [67. Docker 镜像构建流程](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2367-docker-%25E9%2595%259C%25E5%2583%258F%25E5%25BB%25BA%25E7%25AB%258B%25E6%25B5%2581%25E7%25A8%258B)
+#### [67. Docker 镜像构建流程](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [68. 大模型训练流程简述](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2368-%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%25E8%25AE%25AD%25E7%25BB%2583%25E6%25B5%2581%25E7%25A8%258B%25E7%25AE%2580%25E8%25BF%25B0)
+#### [68. 大模型训练流程简述](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [69. MCP 是什么？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2369-mcp-%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F)
+#### [69. MCP 是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [70. 常见 AI 工具有哪些？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2370-%25E5%25B8%25B8%25E8%25A7%2581-ai-%25E5%25B7%25A5%25E5%2585%25B7%25E6%259C%2589%25E5%2593%25AA%25E4%25BA%259B%25EF%25BC%259F)
+#### [70. 常见 AI 工具有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [71. ArrayList 用过吗？是线程安全的吗？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2371-arraylist-%25E7%2594%25A8%25E8%25BF%2587%25E5%2590%2597%25EF%25BC%259F%25E6%2598%25AF%25E7%25BA%25BF%25E7%25A8%258B%25E5%25AE%2589%25E5%2585%25A8%25E7%259A%2584%25E5%2590%2597%25EF%25BC%259F)
+#### [71. ArrayList 用过吗？是线程安全的吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [72. 怎么保证 ArrayList 的线程安全？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2372-%25E6%2580%258E%25E4%25B9%2588%25E4%25BF%259D%25E8%25AF%2581-arraylist-%25E7%259A%2584%25E7%25BA%25BF%25E7%25A8%258B%25E5%25AE%2589%25E5%2585%25A8%25EF%25BC%259F)
+#### [72. 怎么保证 ArrayList 的线程安全？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [73. 死锁问题怎么解决？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2373-%25E6%25AD%25BB%25E9%2594%2581%25E9%2597%25AE%25E9%25A2%2598%25E6%2580%258E%25E4%25B9%2588%25E8%25A7%25A3%25E5%2586%25B3%25EF%25BC%259F)
+#### [73. 死锁问题怎么解决？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [74. 进程和线程的区别？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2374-%25E8%25BF%259B%25E7%25A8%258B%25E5%2592%258C%25E7%25BA%25BF%25E7%25A8%258B%25E7%259A%2584%25E5%258C%25BA%25E5%2588%25AB%25EF%25BC%259F)
+#### [74. 进程和线程的区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [75. 线程共享的有什么？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2375-%25E7%25BA%25BF%25E7%25A8%258B%25E5%2585%25B1%25E4%25BA%25AB%25E7%259A%2584%25E6%259C%2589%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F)
+#### [75. 线程共享的有什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [76. JVM 怎么进行垃圾回收的？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2376-jvm-%25E6%2580%258E%25E4%25B9%2588%25E8%25BF%259B%25E8%25A1%258C%25E5%259E%2583%25E5%259C%25BE%25E5%259B%259E%25E6%2594%25B6%25E7%259A%2584%25EF%25BC%259F)
+#### [76. JVM 怎么进行垃圾回收的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [77. MySQL 锁的分类？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2377-mysql-%25E9%2594%2581%25E7%259A%2584%25E5%2588%2586%25E7%25B1%25BB%25EF%25BC%259F)
+#### [77. MySQL 锁的分类？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [78. Redis - MySQL 一致性方案](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2378-redis---mysql-%25E4%25B8%2580%25E8%2587%25B4%25E6%2580%25A7%25E6%2596%25B9%25E6%25A1%2588)
+#### [78. Redis - MySQL 一致性方案](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [79. MySQL 慢查询优化怎么做？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2379-mysql-%25E6%2585%25A2%25E6%259F%25A5%25E8%25AF%25A2%25E4%25BC%2598%25E5%258C%2596%25E6%2580%258E%25E4%25B9%2588%25E5%2581%259A%25EF%25BC%259F)
+#### [79. MySQL 慢查询优化怎么做？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [80. 索引失效场景有哪些？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2380-%25E7%25B4%25A2%25E5%25BC%2595%25E5%25A4%25B1%25E6%2595%2588%25E5%259C%25BA%25E6%2599%25AF%25E6%259C%2589%25E5%2593%25AA%25E4%25BA%259B%25EF%25BC%259F)
+#### [80. 索引失效场景有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [81. TCP 三次握手过程](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2381-tcp-%25E4%25B8%2589%25E6%25AC%25A1%25E6%258F%25A1%25E6%2589%258B%25E8%25BF%2587%25E7%25A8%258B)
+#### [81. TCP 三次握手过程](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [82. TCP 拥塞控制机制有哪些？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2382-tcp-%25E6%258B%25A5%25E5%25A1%259E%25E6%258E%25A7%25E5%2588%25B6%25E6%259C%25BA%25E5%2588%25B6%25E6%259C%2589%25E5%2593%25AA%25E4%25BA%259B%25EF%25BC%259F)
+#### [82. TCP 拥塞控制机制有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [83. CDN 业务逻辑简述](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2383-cdn-%25E4%25B8%259A%25E5%258A%25A1%25E9%2580%25BB%25E8%25BE%2591%25E7%25AE%2580%25E8%25BF%25B0)
+#### [83. CDN 业务逻辑简述](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [84. 算法：三数之和（Leetcode 15）](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2384-%25E7%25AE%2597%25E6%25B3%2595%25EF%25BC%259A%25E4%25B8%2589%25E6%2595%25B0%25E4%25B9%258B%25E5%2592%258C%25EF%25BC%2588leetcode-15%25EF%25BC%2589)
+#### [84. 算法：三数之和（Leetcode 15）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [85. 算法：有序数组去重（快慢指针）](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2385-%25E7%25AE%2597%25E6%25B3%2595%25EF%25BC%259A%25E6%259C%2589%25E5%25BA%258F%25E6%2595%25B0%25E7%25BB%2584%25E5%258E%25BB%25E9%2587%258D%25EF%25BC%2588%25E5%25BF%25AB%25E6%2585%25A2%25E6%258C%2587%25E9%2592%2588%25EF%25BC%2589)
+#### [85. 算法：有序数组去重（快慢指针）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [86. 算法：LCA 最近公共祖先（递归 + 哈希解法）](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2386-%25E7%25AE%2597%25E6%25B3%2595%25EF%25BC%259Alca-%25E6%259C%2580%25E8%25BF%2591%25E5%2585%25AC%25E5%2585%25B1%25E7%25A5%2596%25E5%2585%2588%25EF%25BC%2588%25E9%2580%2592%25E5%25BD%2592--%25E5%2593%2588%25E5%25B8%258C%25E8%25A7%25A3%25E6%25B3%2595%25EF%25BC%2589)
+#### [86. 算法：LCA 最近公共祖先（递归 + 哈希解法）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [87. 图的搜索问题：DFS / BFS 应用场景](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2387-%25E5%259B%25BE%25E7%259A%2584%25E6%2590%259C%25E7%25B4%25A2%25E9%2597%25AE%25E9%25A2%2598%25EF%25BC%259Adfs--bfs-%25E5%25BA%2594%25E7%2594%25A8%25E5%259C%25BA%25E6%2599%25AF)
+#### [87. 图的搜索问题：DFS / BFS 应用场景](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [88. 手撕反转链表 — 迭代和递归实现](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2388-%25E6%2589%258B%25E6%2592%2595%25E5%258F%258D%25E8%25BD%25AC%25E9%2593%25BE%25E8%25A1%25A8-%E2%80%94-%25E8%25BF%25AD%25E4%25BB%25A3%25E5%2592%258C%25E9%2580%2592%25E5%25BD%2592%25E5%25AE%259E%25E7%258E%25B0)
+#### [88. 手撕反转链表 — 迭代和递归实现](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [89. 手撕 单链表删除指定节点（无头指针，直接给定该节点）](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2389-%25E6%2589%258B%25E6%2592%2595-%25E5%258D%2595%25E9%2593%25BE%25E8%25A1%25A8%25E5%2588%25A0%25E9%2599%25A4%25E6%258C%2587%25E5%25AE%259A%25E8%258A%2582%25E7%2582%25B9%25EF%25BC%2588%25E6%2597%25A0%25E5%25A4%25B4%25E6%258C%2587%25E9%2592%2588%25EF%25BC%258C%25E7%259B%25B4%25E6%258E%25A5%25E7%25BB%2599%25E5%25AE%259A%25E8%25AF%25A5%25E8%258A%2582%25E7%2582%25B9%25EF%25BC%2589)
+#### [89. 手撕 单链表删除指定节点（无头指针，直接给定该节点）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [90. 手撕 LeetCode 199. 二叉树的右视图](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2390-%25E6%2589%258B%25E6%2592%2595-leetcode-199-%25E4%25BA%258C%25E5%258F%2589%25E6%25A0%2591%25E7%259A%2584%25E5%258F%25B3%25E8%25A7%2586%25E5%259B%25BE)
+#### [90. 手撕 LeetCode 199. 二叉树的右视图](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [91. 手撕题：二叉树层序遍历（Null 用 `*` 占位）](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2391-%25E6%2589%258B%25E6%2592%2595%25E9%25A2%2598%25EF%25BC%259A%25E4%25BA%258C%25E5%258F%2589%25E6%25A0%2591%25E5%25B1%2582%25E5%25BA%258F%25E9%2581%258D%25E5%258E%2586%25EF%25BC%2588null-%25E7%2594%25A8--%25E5%258D%25A0%25E4%25BD%258D%25EF%25BC%2589%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2391-%25E6%2589%258B%25E6%2592%2595%25E9%25A2%2598%25EF%25BC%259A%25E4%25BA%258C%25E5%258F%2589%25E6%25A0%2591%25E5%25B1%2582%25E5%25BA%258F%25E9%2581%258D%25E5%258E%2586%25EF%25BC%2588null-%25E7%2594%25A8--%25E5%258D%25A0%25E4%25BD%258D%25EF%25BC%2589\))
+#### [91. 手撕题：二叉树层序遍历（Null 用 `*` 占位）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md)
 
-#### [92. 加载一个 HTML 的浏览器是怎么渲染页面的？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2392-%25E5%258A%25A0%25E8%25BD%25BD%25E4%25B8%2580%25E4%25B8%25AA-html-%25E7%259A%2584%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E6%2598%25AF%25E6%2580%258E%25E4%25B9%2588%25E6%25B8%25B2%25E6%259F%2593%25E9%25A1%25B5%25E9%259D%25A2%25E7%259A%2584%25EF%25BC%259F)
+#### [92. 加载一个 HTML 的浏览器是怎么渲染页面的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [93. 重排和重绘在什么阶段做的？怎么尽量避免重排重绘？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2393-%25E9%2587%258D%25E6%258E%2592%25E5%2592%258C%25E9%2587%258D%25E7%25BB%2598%25E5%259C%25A8%25E4%25BB%2580%25E4%25B9%2588%25E9%2598%25B6%25E6%25AE%25B5%25E5%2581%259A%25E7%259A%2584%25EF%25BC%259F%25E6%2580%258E%25E4%25B9%2588%25E5%25B0%25BD%25E9%2587%258F%25E9%2581%25BF%25E5%2585%258D%25E9%2587%258D%25E6%258E%2592%25E9%2587%258D%25E7%25BB%2598%25EF%25BC%259F)
+#### [93. 重排和重绘在什么阶段做的？怎么尽量避免重排重绘？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [94. 浏览器 DOM 树和 Vue 里的虚拟 DOM 树关系？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2394-%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8-dom-%25E6%25A0%2591%25E5%2592%258C-vue-%25E9%2587%258C%25E7%259A%2584%25E8%2599%259A%25E6%258B%259F-dom-%25E6%25A0%2591%25E5%2585%25B3%25E7%25B3%25BB%25EF%25BC%259F)
+#### [94. 浏览器 DOM 树和 Vue 里的虚拟 DOM 树关系？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [95. 虚拟 DOM 树节点包含什么信息？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2395-%25E8%2599%259A%25E6%258B%259F-dom-%25E6%25A0%2591%25E8%258A%2582%25E7%2582%25B9%25E5%258C%2585%25E5%2590%25AB%25E4%25BB%2580%25E4%25B9%2588%25E4%25BF%25A1%25E6%2581%25AF%25EF%25BC%259F)
+#### [95. 虚拟 DOM 树节点包含什么信息？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [96. 往列表插入元素，虚拟 DOM 树怎么处理？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2396-%25E5%25BE%2580%25E5%2588%2597%25E8%25A1%25A8%25E6%258F%2592%25E5%2585%25A5%25E5%2585%2583%25E7%25B4%25A0%25EF%25BC%258C%25E8%2599%259A%25E6%258B%259F-dom-%25E6%25A0%2591%25E6%2580%258E%25E4%25B9%2588%25E5%25A4%2584%25E7%2590%2586%25EF%25BC%259F)
+#### [96. 往列表插入元素，虚拟 DOM 树怎么处理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [97. Diff 算法怎么操作的？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2397-diff-%25E7%25AE%2597%25E6%25B3%2595%25E6%2580%258E%25E4%25B9%2588%25E6%2593%258D%25E4%25BD%259C%25E7%259A%2584%25EF%25BC%259F)
+#### [97. Diff 算法怎么操作的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [98. CSS 中的 BFC（块级格式上下文）？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2398-css-%25E4%25B8%25AD%25E7%259A%2584-bfc%25EF%25BC%2588%25E5%259D%2597%25E7%25BA%25A7%25E6%25A0%25BC%25E5%25BC%258F%25E4%25B8%258A%25E4%25B8%258B%25E6%2596%2587%25EF%25BC%2589%25EF%25BC%259F)
+#### [98. CSS 中的 BFC（块级格式上下文）？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [99. JS 中的闭包（闭包是什么？原理？）](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%2399-js-%25E4%25B8%25AD%25E7%259A%2584%25E9%2597%25AD%25E5%258C%2585%25EF%25BC%2588%25E9%2597%25AD%25E5%258C%2585%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25EF%25BC%259F%25E5%258E%259F%25E7%2590%2586%25EF%25BC%259F%25EF%25BC%2589)
+#### [99. JS 中的闭包（闭包是什么？原理？）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [100. 怎么用闭包实现单例设计模式？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%23100-%25E6%2580%258E%25E4%25B9%2588%25E7%2594%25A8%25E9%2597%25AD%25E5%258C%2585%25E5%25AE%259E%25E7%258E%25B0%25E5%258D%2595%25E4%25BE%258B%25E8%25AE%25BE%25E8%25AE%25A1%25E6%25A8%25A1%25E5%25BC%258F%25EF%25BC%259F)
+#### [100. 怎么用闭包实现单例设计模式？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [101. JS 怎么改变函数作用域？](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%23101-js-%25E6%2580%258E%25E4%25B9%2588%25E6%2594%25B9%25E5%258F%2598%25E5%2587%25BD%25E6%2595%25B0%25E4%25BD%259C%25E7%2594%25A8%25E5%259F%259F%25EF%25BC%259F)
+#### [101. JS 怎么改变函数作用域？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
-#### [102. 算法题：最长无重复字符子串（滑动窗口）](https://www.google.com/search?q=https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E8%2585%25BE%25E8%25AE%25AF/readme.md%23102-%25E7%25AE%2597%25E6%25B3%2595%25EF%25BC%259A%25E6%259C%2580%25E9%2595%25BF%25E6%2597%25A0%25E9%2587%258D%25E5%25A4%258D%25E5%25AD%2597%25E7%25AC%25A6%25E5%25AD%2597%25E4%25B8%25B2%25EF%25BC%2588%25E6%25BB%2591%25E5%258A%25A8%25E7%25AA%2597%25E5%258F%25A3%25EF%25BC%2589)
+#### [102. 算法题：最长无重复字符子串（滑动窗口）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
