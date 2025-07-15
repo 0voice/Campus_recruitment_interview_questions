@@ -1420,3 +1420,115 @@
 #### [101. JS 怎么改变函数作用域？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
 #### [102. 算法题：最长无重复字符子串（滑动窗口）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+## 阿里
+
+#### [1. JVM 内存管理与 C++ 有哪些区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [2. 什么是多态？哪里体现了多态的概念？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [3. HashMap 源码分析，是不是线程安全？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [4. ConcurrentHashMap 源码分析](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [5. 类加载，双亲委托机制](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [6. Java 内存模型（堆和栈的细节）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [7. 线程池](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [8. 事务的四种特性（ACID）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [9. 什么是死锁？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [10. 乐观锁和悲观锁的策略](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [11. 高可用网站的设计（有什么技术实现）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [12. 低耦合高内聚](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [13. 设计模式了解不？用过哪些？为什么用？单例模式有什么作用和好处？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [14. MySQL索引优化知道哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [15. MySQL为什么发生死锁，如何解决？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [16. MySQL如何排查慢SQL？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [17. MySQL你知道哪些参数？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [18. Redis你知道的持久化策略，具体实现？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [19. Redis的zset的数据结构有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [20. 跳表的底层原理，为什么要使用跳表不使用红黑树？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [21. 热key如何处理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [22. Redis的过期键如何处理，有哪些方式，会导致问题吗，如何解决？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [23. Redis的内存淘汰策略有哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [24. Redis zset的底层结构：压缩列表和跳表，区别，什么时候使用哪一种，为什么不用红黑树？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [25. Java序列化，serialVersionUID的作用，怎么让字段不序列化（除了transient还有吗？）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [26. 深拷贝和浅拷贝，怎么实现深拷贝？（多种方式）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [27. 秒杀系统要考虑什么，保险品退保返保费要注意什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [28. Redis过期策略，有没有局限性，怎么解决？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [29. 序列化写入后读出的对象变化（版本不一致问题）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [30. 线程池的核心参数，给了一个线程池问有什么问题？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [31. Hadoop 生态圈有哪些组件？展开说一下](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [32. 数仓建模遵循哪些规范？数据治理怎么做？异常数据如何监控？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [33. 实时画像标签有接触吗？实时性怎么定义？怎么确保实时数据准确？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [34. 看板工具有哪些？底层数据如何做到秒级更新？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [35. 如何评价一个数仓“干得好”？为什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [36. 如果让你从0到1设计一个数仓全栈，你会怎么设计？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [37. Synchronized 和 Lock 有哪些理论上的理解？本质区别是什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [38. Synchronized 锁膨胀经历哪些过程？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [39. 对于信号量、volatile 有没有理解？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [40. 项目中数据库有没有分库分表的场景？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [41. 秒杀场景中悲观锁有没有了解？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [42. 有了解过布隆过滤器吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [43. 布隆过滤器为什么适合防止缓存穿透？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [44. Java线程模型，Thread类底层实现，线程和内核线程的对应关系，有什么优缺点？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [45. 一条 Java 语句从创建到执行的全过程，类加载流程，JDK 内置类如何被启动类加载器加载？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [46. 垃圾回收机制，JVM 常见的垃圾回收器？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [47. MySQL 一条语句的执行流程？为什么要写 Redo Log？不能直接写 B+ 树吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [48. Undo Log 的作用？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [49. Java 中 Class 的生命周期有哪些阶段？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [50. JNI 效率优化怎么做？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [51. 4 亿行数据怎么去重？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [52. 乐观锁和悲观锁的区别与使用场景？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [53. 常见设计模式，你用过哪些？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [54. 分布式事务怎么实现？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
+
+#### [55. 如何手写一个简单的 RPC 框架？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
