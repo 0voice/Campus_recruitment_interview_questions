@@ -3,6 +3,11 @@
 ---
 ---
 
+
+
+
+
+
 ### **面试题（含视频讲解版）**
 * [阿里](#1)
 * [腾讯](#2)
@@ -84,7 +89,7 @@
 #### 9. [golang 互斥锁的基本原理](https://www.bilibili.com/video/BV1x32wYTEwj/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 
-
+---
 
 ## <h3 id="2">腾讯（含视频讲解）</h3> 
 
@@ -166,7 +171,7 @@
 
 #### 39. [Redis MySQL数据一致性](https://www.bilibili.com/video/BV1ZS421977Y/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-
+---
 ## <h3 id="3">百度（含视频讲解）</h3> 
 
 #### 1. [并发与并行的区别？](https://www.bilibili.com/video/BV1z251zUEqk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
@@ -275,7 +280,7 @@
 
 #### 52. [golang GMP模型 Work Stealing偷多少？](https://www.bilibili.com/video/BV1d3pEeoENy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-
+---
 
 ## <h3 id="4">网易（含视频讲解）</h3> 
 
@@ -584,7 +589,7 @@
 
 #### 2. [请回答一下Reactor和Proctor的区别？](https://www.bilibili.com/video/BV1fT421D72J/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)  
 
-#### 2. [cookie和session的区别以及分布式session的实现](https://www.bilibili.com/video/BV1V4iRY6En7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)  
+#### 3. [cookie和session的区别以及分布式session的实现](https://www.bilibili.com/video/BV1V4iRY6En7/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)  
 
 ## <h3 id="30">小鹏（含视频讲解）</h3> 
 
@@ -601,7 +606,6 @@
 #### 6. [Linux进程与线程的区别-进程的底层逻辑](https://www.bilibili.com/video/BV1PfQAYQE8N/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 #### 7. [小鹏AI Infra 后台开发：http与grpc的区别](https://www.bilibili.com/video/BV1Us92YDEb5/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
 
 ## <h3 id="31">虾皮（含视频讲解）</h3> 
 
@@ -630,8 +634,6 @@
 #### 6. [map可以寻址吗？](https://www.bilibili.com/video/BV1SqkzYuEZ1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 #### 7. [map的两种扩容方式](https://www.bilibili.com/video/BV1ZEkzYHEXV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
-
 
 ## <h3 id="33">4399（含视频讲解）</h3> 
 
@@ -726,7 +728,6 @@
 
 #### 10. [切片的复制过程](https://www.bilibili.com/video/BV14LrzYhEgL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-
 ## <h3 id="45">深信服（含视频讲解）</h3> 
 
 #### 1. [协程如何关闭](https://www.bilibili.com/video/BV1gQNde5EEF?spm_id_from=333.788.videopod.sections&vd_source=1680a6fedc2270f3c093e88857407609)
@@ -770,7 +771,6 @@
 #### 4. [如何控制 goroutine 的生命周期，channel 的作用，context 的作用](https://www.bilibili.com/video/BV1aDqtYAEfS/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 #### 5. [map、slice未初始化操作会怎样，发生panic应该怎么办](https://www.bilibili.com/video/BV1wnqGYBEjG/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
-
 
 ## <h3 id="50">LeetCode 经典（含视频讲解）</h3> 
 
@@ -1740,3 +1740,92 @@
 #### [4. IOC是什么，Bean是怎么初始化的](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E6%90%9C%E7%8B%90/readme.md#4-ioc%E6%98%AF%E4%BB%80%E4%B9%88bean%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%9D%E5%A7%8B%E5%8C%96%E7%9A%84)
 
 #### [5. Mysql的隔离级别 幻读有没有在mysql被解决](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E6%90%9C%E7%8B%90/readme.md#5-mysql%E7%9A%84%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB--%E5%B9%BB%E8%AF%BB%E6%9C%89%E6%B2%A1%E6%9C%89%E5%9C%A8mysql%E8%A2%AB%E8%A7%A3%E5%86%B3)
+
+---
+
+## 面经
+
+#### [1. 27java小厂面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/27java%E5%B0%8F%E5%8E%82%E9%9D%A2%E7%BB%8F.md)
+
+#### [2. CVTE提前批硬件面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/CVTE%E6%8F%90%E5%89%8D%E6%89%B9%E7%A1%AC%E4%BB%B6%E9%9D%A2%E7%BB%8F.txt)
+
+#### [3. 拼多多测试工程师面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/pdd%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E7%BB%8F.txt)
+
+#### [4. smoore面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/smoore%E9%9D%A2%E7%BB%8F.txt)
+
+#### [5. 云智一面面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E4%BA%91%E6%99%BA%E4%B8%80%E9%9D%A2%E9%9D%A2%E7%BB%8F.md)
+
+#### [6. 亚信科技数据开发面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E4%BA%9A%E4%BF%A1%E7%A7%91%E6%8A%80%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E9%9D%A2%E7%BB%8F.txt)
+
+#### [7. 华为26暑期实习面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%8D%8E%E4%B8%BA26%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F.txt)
+
+#### [8. 华为od开发转测试面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%8D%8E%E4%B8%BAod%E5%BC%80%E5%8F%91%E8%BD%AC%E6%B5%8B%E8%AF%95%E9%9D%A2%E7%BB%8F.txt)
+
+#### [9. 多益网络面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C%E9%9D%A2%E7%BB%8F.txt)
+
+#### [10. 天美面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%A4%A9%E7%BE%8E%E9%9D%A2%E7%BB%8F.txt)
+
+#### [11. 好未来面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%A5%BD%E6%9C%AA%E6%9D%A5%E9%9D%A2%E7%BB%8F.md)
+
+#### [12. 字节一二面面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E4%B8%80%E4%BA%8C%E9%9D%A2%E9%9D%A2%E7%BB%8F.txt)
+
+#### [13. 字节三面面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AD%97%E8%8A%82%E4%B8%89%E9%9D%A2%E9%9D%A2%E7%BB%8F.md)
+
+#### [14. 安克创新星图实习生面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%AE%89%E5%85%8B%E5%88%9B%E6%96%B0%E6%98%9F%E5%9B%BE%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%9D%A2%E7%BB%8F.txt)
+
+#### [15. 小初创算法岗](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%B0%8F%E5%88%9D%E5%88%9B%E7%AE%97%E6%B3%95%E5%B2%97.txt)
+
+#### [16. 小红书java面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%B0%8F%E7%BA%A2%E4%B9%A6java%E9%9D%A2%E7%BB%8F.txt)
+
+#### [17. 小鹏提前批JAVA面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%B0%8F%E9%B9%8F%E6%8F%90%E5%89%8D%E6%89%B9JAVA%E9%9D%A2%E7%BB%8F.txt)
+
+#### [18. 微步在线一面面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%BE%AE%E6%AD%A5%E5%9C%A8%E7%BA%BF%E4%B8%80%E9%9D%A2%E9%9D%A2%E7%BB%8F.txt)
+
+#### [19. 微软必应实习面经一面](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E5%BE%AE%E8%BD%AF%E5%BF%85%E5%BA%94%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F%E4%B8%80%E9%9D%A2.txt)
+
+#### [20. 搜狐面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E6%90%9C%E7%8B%90%E9%9D%A2%E7%BB%8F.txt)
+
+#### [21. 某银行面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E6%9F%90%E9%93%B6%E8%A1%8C%E9%9D%A2%E7%BB%8F.txt)
+
+#### [22. 淘天大模型实习面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E6%B7%98%E5%A4%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F.txt)
+
+#### [23. 游卡后期面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E6%B8%B8%E5%8D%A1%E5%90%8E%E6%9C%9F%E9%9D%A2%E7%BB%8F.txt)
+
+#### [24. 用友网络面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%94%A8%E5%8F%8B%E7%BD%91%E7%BB%9C%E9%9D%A2%E7%BB%8F.txt)
+
+#### [25. 百度一面二面面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%99%BE%E5%BA%A6%E4%B8%80%E9%9D%A2%E4%BA%8C%E9%9D%A2%E9%9D%A2%E7%BB%8F.txt)
+
+#### [26. 百度一面面经已oc](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%99%BE%E5%BA%A6%E4%B8%80%E9%9D%A2%E9%9D%A2%E7%BB%8F%E5%B7%B2oc.txt)
+
+#### [27. 百度二面面经已oc](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%99%BE%E5%BA%A6%E4%BA%8C%E9%9D%A2%E9%9D%A2%E7%BB%8F%E5%B7%B2oc.txt)
+
+#### [28. 网易嵌入式面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%BD%91%E6%98%93%E5%B5%8C%E5%85%A5%E5%BC%8F%E9%9D%A2%E7%BB%8F.md)
+
+#### [29. 网易游戏客户端外包面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A4%96%E5%8C%85%E9%9D%A2%E7%BB%8F.txt)
+
+#### [30. 美团面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%BE%8E%E5%9B%A2%E9%9D%A2%E7%BB%8F.txt)
+
+#### [31. 美团面经oc](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%BE%8E%E5%9B%A2%E9%9D%A2%E7%BB%8Foc.txt)
+
+#### [32. 腾讯IEG面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E8%85%BE%E8%AE%AFIEG%E9%9D%A2%E7%BB%8F.txt)
+
+#### [33. 腾讯云智面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E8%85%BE%E8%AE%AF%E4%BA%91%E6%99%BA%E9%9D%A2%E7%BB%8F.txt)
+
+#### [34. 腾讯开发云后台面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E8%85%BE%E8%AE%AF%E5%BC%80%E5%8F%91%E4%BA%91%E5%90%8E%E5%8F%B0%E9%9D%A2%E7%BB%8F.txt)
+
+#### [35. 致远互联面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E8%87%B4%E8%BF%9C%E4%BA%92%E8%81%94%E9%9D%A2%E7%BB%8F.txt)
+
+#### [36. 虾皮大数据开发暑期面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E8%99%BE%E7%9A%AE%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E6%9A%91%E6%9C%9F%E9%9D%A2%E7%BB%8F.txt)
+
+#### [37. 饿了么面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E9%A5%BF%E4%BA%86%E4%B9%88%E9%9D%A2%E7%BB%8F.txt)
+
+#### [38. 腾讯一面面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E8%85%BE%E8%AE%AF%E4%B8%80%E9%9D%A2%E9%9D%A2%E7%BB%8F.txt)
+
+#### [39. Java面经华OD](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/Java%E9%9D%A2%E7%BB%8F%E5%8D%8EOD.txt)
+
+#### [40. 数字马力凉经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E6%95%B0%E5%AD%97%E9%A9%AC%E5%8A%9B%E5%87%89%E7%BB%8F.txt)
+
+#### [41. 腾讯后台开发暑期实习面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E8%85%BE%E8%AE%AF%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F.txt)
+
+#### [42. 科大讯飞软件开发实习面经](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E9%9D%A2%E7%BB%8F/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E6%95%99%E8%82%B2bg%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%97%A5%E5%B8%B8%E5%AE%9E%E4%B9%A0%E9%9D%A2%E7%BB%8F.txt)
+
