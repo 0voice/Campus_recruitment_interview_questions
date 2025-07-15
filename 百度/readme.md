@@ -45,7 +45,7 @@ Java 一共有 8 种基本数据类型：
 
 Spring Boot 最重要的注解是：
 
-#### `@SpringBootApplication`
+** `@SpringBootApplication`**
 
 它是 Spring Boot 的入口注解，**相当于三个注解的组合**：
 
@@ -62,31 +62,31 @@ Spring Boot 最重要的注解是：
 
 其他常用注解（按功能分类）：
 
-#### 1. **组件类注解**（用于创建 Bean）：
+1. **组件类注解**（用于创建 Bean）：
 
 * `@Component`：通用组件
 * `@Service`：业务逻辑层
 * `@Repository`：持久层（自动处理异常转换）
 * `@Controller` / `@RestController`：控制层（前端接口）
 
-#### 2. **依赖注入**：
+2. **依赖注入**：
 
 * `@Autowired`：自动注入 Bean（按类型）
 * `@Value`：注入配置值（如 application.yml）
 
-#### 3. **配置和自动化相关**：
+3. **配置和自动化相关**：
 
 * `@Configuration`：定义配置类
 * `@Bean`：在配置类中手动注册 Bean
 * `@EnableAutoConfiguration`：开启自动配置（Spring Boot 核心）
 * `@ConditionalOnXXX`：条件装配（Spring Boot 特有）
 
-#### 4. **Web 开发相关**：
+4. **Web 开发相关**：
 
 * `@RequestMapping` / `@GetMapping` / `@PostMapping`：映射 HTTP 请求
 * `@RequestParam` / `@PathVariable` / `@RequestBody`：绑定请求参数
 
-#### 5. **其他常见注解**：
+5. **其他常见注解**：
 
 * `@Slf4j`：自动引入日志对象（Lombok）
 * `@Transactional`：声明式事务管理
