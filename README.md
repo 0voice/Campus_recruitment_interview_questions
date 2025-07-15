@@ -1425,7 +1425,7 @@
 
 ---
 
-## 阿里
+## 阿里（含文字讲解）
 
 #### [1. JVM 内存管理与 C++ 有哪些区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
@@ -1539,7 +1539,7 @@
 
 ---
 
-## 京东
+## 京东（含文字讲解）
 
 #### [1. 分布式锁、Redisson 的实现](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
 
