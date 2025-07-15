@@ -996,9 +996,10 @@
 
 #### 24. [go协程池的设计与实现](https://www.bilibili.com/video/BV1QJ4m1374w/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-
 ---
-## 百度
+---
+
+## 百度（含文字讲解）
 
 #### [1. Java三大特性](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
@@ -1108,7 +1109,7 @@
 
 #### [54. 怎么定义权限？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
-#### [55. `@Transactional` 注解的原理？](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [55. `@Transactional` 注解的原理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
 #### [56. 为什么 Caffeine 做一级缓存，Redis 做二级缓存？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
@@ -1130,7 +1131,7 @@
 
 #### [65. 浏览器怎样把资源显示出来？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
-#### [66. Linux 的 `read` 和 `write`](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [66. Linux 的 `read` 和 `write`](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
 #### [67. 零拷贝 DMA](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
@@ -1178,11 +1179,11 @@
 
 #### [88. 算子核函数设计方法](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
-#### [89. `Transfer-Encoding` 响应头（重点是 `chunked`）](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [89. `Transfer-Encoding` 响应头（重点是 `chunked`）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
-#### [90. 宏任务 / 微任务 / `MessageChannel`](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [90. 宏任务 / 微任务 / `MessageChannel`](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
-#### [91. `Vue.nextTick` 源码逻辑简述（Vue 2.x）](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [91. `Vue.nextTick` 源码逻辑简述（Vue 2.x）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
 #### [92. Webpack 解决了什么痛点？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
@@ -1190,15 +1191,15 @@
 
 #### [94. 编译、链接、重定位](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
-#### [95. 除了 `inline`，还能怎么设置内联函数？](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [95. 除了 `inline`，还能怎么设置内联函数？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
 #### [96. 头文件里可以放什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
-#### [97. `explicit` 的作用？](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [97. `explicit` 的作用？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
 #### [98. C++ 四种强制类型转换](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
-#### [99. double 转 int64 用 `reinterpret_cast` 和 `static_cast` 区别](https://www.google.com/search?q=%5Bhttps://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md%5D\(https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md\))
+#### [99. double 转 int64 用 `reinterpret_cast` 和 `static_cast` 区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%25E7%2599%25BE%25E5%25BA%25A6/readme.md)
 
 #### [100. 构造函数抛出异常的问题](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
@@ -1213,3 +1214,7 @@
 #### [105. 体系结构中的缓存（Cache）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
 #### [106. 多核 CPU 处理同一块数据时如何同步？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
+
+## 腾讯（含文字讲解）
+
+#### 1. Redis 和 MySQL 如何保证一致性？
