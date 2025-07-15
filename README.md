@@ -1620,3 +1620,123 @@
 #### [39. 手撕：得到两个线程的计算成果](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
 
 #### [40. 手撕：找到数组中重复的数字和出现次数](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
+
+---
+
+## 网易（含文字讲解）
+
+#### [1. 1000个 goroutine 进行 IO 处理会发生什么？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [2. 携程在哪些情况下会被剥离 M？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [3. 网络设计模式？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [4. 学习中的难点？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [5. GPM 调度器？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [6. 执行系统调用的整个过程？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [7. 乐观锁和悲观锁？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [8. 数据库中的乐观锁是如何实现的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [9. 消息队列异步削峰](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [10. 用户取消订单如何处理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [11. 索引的数据结构 B+树特点](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [12. 数据库四个隔离级别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [13. 幻读](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [14. 间隙锁](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [15. 写锁](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [16. Setnx 实现分布式锁](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [17. Redis 缓存三兄弟](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [18. Zset 设计每日分数排行榜](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [19. 死锁如何解决？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [20. URL 映射](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [21. Spring 里面的 IoC 了解吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [22. 常用注解？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [23. 注解的原理知道吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [24. Java 的 HashMap 底层数据结构？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [25. 为什么链表要转换成红黑树？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [26. HashMap 是无序的吧？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [27. 要想有序，用哪个 Map？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [28. MySQL 的事务特性？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [29. 隔离级别，和默认隔离级别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [30. 线程池了解吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [31. 两个机器通过网线连接，一个是1.1.1.1，另一个是2.2.2.2，可以进行数据包的发送吗？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [32. IP层分片机制是怎么实现的？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [33. TCP报文中的选项设置？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [34. 时间戳机制？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [35. 序列号的随机生成？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [36. TCP端口复用机制？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [37. 接收窗口满了怎么处理？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [38. 四次挥手？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [39. ARP协议？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [40. commonjs 和 esmodule 区别？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [41. 事件过程](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [42. 阻止冒泡](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [43. 盒模型](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [44. BFC 和触发方法](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [45. 实现动画的几种方式](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [46. requestAnimationFrame 实现动画优点](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [47. flex: 1 含义](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [48. flex-shrink 和 flex-grow](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [49. 内容溢出写法](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [50. TypeScript 泛型](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+#### [51. extends 关键字](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
+
+---
+
+## 搜狐
+
+#### [1. Java常用集合   HashMap和ConcurrentMap区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E6%90%9C%E7%8B%90/readme.md#1-java%E5%B8%B8%E7%94%A8%E9%9B%86%E5%90%88---hashmap%E5%92%8Cconcurrentmap%E5%8C%BA%E5%88%AB)
+
+#### [2. JVM内存模型   方法区存什么](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E6%90%9C%E7%8B%90/readme.md#2-jvm%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B---%E6%96%B9%E6%B3%95%E5%8C%BA%E5%AD%98%E4%BB%80%E4%B9%88)
+
+#### [3. Spring和SpringBoot的区别](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E6%90%9C%E7%8B%90/readme.md#3-spring%E5%92%8Cspringboot%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+#### [4. IOC是什么，Bean是怎么初始化的](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E6%90%9C%E7%8B%90/readme.md#4-ioc%E6%98%AF%E4%BB%80%E4%B9%88bean%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%9D%E5%A7%8B%E5%8C%96%E7%9A%84)
+
+#### [5. Mysql的隔离级别 幻读有没有在mysql被解决](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E6%90%9C%E7%8B%90/readme.md#5-mysql%E7%9A%84%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB--%E5%B9%BB%E8%AF%BB%E6%9C%89%E6%B2%A1%E6%9C%89%E5%9C%A8mysql%E8%A2%AB%E8%A7%A3%E5%86%B3)
