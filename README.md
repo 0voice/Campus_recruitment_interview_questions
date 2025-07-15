@@ -1,4 +1,4 @@
-# 2025年最新总结，面向2026届应届生，汇总阿里、腾讯、字节、百度、美团、滴滴、米哈游、京东、华为、小米、英伟达、微软、金山等百家大中小厂。面试题带有视频讲解以及文字讲解，答案分析持续更新中。
+# 2025年最新总结，面向2026届应届生，汇总阿里、腾讯、字节、百度、美团、滴滴、米哈游、京东、华为、小米、英伟达、微软、等百家大中小厂。面试题带有视频讲解以及文字讲解，答案分析持续更新中。
 
 ---
 ---
@@ -71,6 +71,11 @@
 #### 7. [MySQL是怎么执行一条SQL语句的？](https://www.bilibili.com/video/BV1Wn4y197BQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 8. [请说出TCP四次挥手的流程？以及为什么需要四次挥手？](https://www.bilibili.com/video/BV1iH4y1u7i9/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+
+#### 9. [golang 互斥锁的基本原理](https://www.bilibili.com/video/BV1x32wYTEwj/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
+
 
 ## <h3 id="2">腾讯（含视频讲解）</h3> 
 
@@ -146,7 +151,12 @@
 
 #### 36. [golang协程调度、什么时候一定会发生线程上下文切换？](https://www.bilibili.com/video/BV1MAKWeDEYc/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
-#### 37. []()
+#### 37. [golang channel的底层实现](https://www.bilibili.com/video/BV1GTm5YHEg1/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 38. [golang 读写锁的基本原理](https://www.bilibili.com/video/BV1ZP2GYQEhz/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 39. [Redis MySQL数据一致性](https://www.bilibili.com/video/BV1ZS421977Y/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
 
 ## <h3 id="3">百度（含视频讲解）</h3> 
 
@@ -248,6 +258,14 @@
 
 #### 48. [讲讲defer关键字](https://www.bilibili.com/video/BV1SZrpYoEfP/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 49. [golang 并发原语是什么？](https://www.bilibili.com/video/BV1D7tfeCENG/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 50. [golang gc 三色标记法](https://www.bilibili.com/video/BV1SLtVe7EDR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 51. [golang程序启动时发生什么](https://www.bilibili.com/video/BV1Sy4YeKEU2/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 52. [golang GMP模型 Work Stealing偷多少？](https://www.bilibili.com/video/BV1d3pEeoENy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
 
 
 ## <h3 id="4">网易（含视频讲解）</h3> 
@@ -317,11 +335,29 @@
 
 #### 21. [48小时内完成一个基于TCP实现一个简单的网络协议](https://www.bilibili.com/video/BV1aFmhYcE35/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 22. [map是线程安全的吗？如何实现线程安全的map](https://www.bilibili.com/video/BV14oyNYLEo6/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 23. [panic与匿名函数的异常捕获和处理](https://www.bilibili.com/video/BV1a1yNYXEfj/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 24. [defer的作用与底层原理](https://www.bilibili.com/video/BV11kmPY2Exr/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 25. [Golang 内存逃逸现象是什么](https://www.bilibili.com/video/BV1kepjePEVs/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 26. [算法 给前序遍历和中序遍历还原二叉树](https://www.bilibili.com/video/BV13aHEenE6f/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 27. [算法 求字符串位置](https://www.bilibili.com/video/BV1kcW7ezEZL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 28. [算法 镜像二叉树](https://www.bilibili.com/video/BV1PcW7e6EpL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 29. [算法 蛇形遍历二叉树](https://www.bilibili.com/video/BV1AcW7e6EoN/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 30. [算法 最长公共序列](https://www.bilibili.com/video/BV1oYeAe2Epy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 31. [算法 反转链表](https://www.bilibili.com/video/BV13keAerECR/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 32. [算法 求最长回文子串](https://www.bilibili.com/video/BV1hrY7eyEka/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 33. [算法 求链表相交的点](https://www.bilibili.com/video/BV1EsY7exErL/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 ## <h3 id="7">京东（含视频讲解）</h3> 
 
@@ -423,6 +459,12 @@
 #### 3. [select、poll、epoll的区别？](https://www.bilibili.com/video/BV1fJ23YQEHG/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
 #### 4. [简述智能指针种类以及使用场景](https://www.bilibili.com/video/BV1xE421j7Tt/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
+
+#### 5. [RESTful 风格API设计规范](https://www.bilibili.com/video/BV1P1sZeREuU/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 6. [map 基本原理](https://www.bilibili.com/video/BV1hxxjenEFW/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 7. [golang 切片原理](https://www.bilibili.com/video/BV14QtzeUEKi/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 ## <h3 id="19">bilibili（含视频讲解）</h3> 
 
@@ -819,6 +861,9 @@
 
 #### 40. [2025届适用于春招实习、校招、应届毕业生的完整golang学习路线分享](https://www.bilibili.com/video/BV1cxSiYiESQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
+#### 41. [腾讯云、阿里云它们的免费的https证书从何而来](https://www.bilibili.com/video/BV1zQHjeZEBB/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 42. [应届毕业golang和java如何选择，来看看这9个城市的对比情况吧](https://www.bilibili.com/video/BV1Hb421e7KV/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 ## <h3 id="14">简历修改（含视频讲解）</h3> 
 
@@ -856,7 +901,7 @@
 
 #### 17. [C++面试要怎么准备简历？这些细节你一定要注意](https://www.bilibili.com/video/BV1MP411a7g6/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
 
-#### 18. []()
+#### 18. [如何写出优质的简历搞定HR获得面试机会](https://www.bilibili.com/video/BV1n142187fb/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 ## <h3 id="14">c++ 相关面试题（含视频讲解）</h3> 
 
@@ -943,6 +988,10 @@
 #### 22. [golang 传值与传引用到底该如何选择？](https://www.bilibili.com/video/BV13XD2YQESY/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 #### 23. [golang同步锁有什么特点？作用是什么？](https://www.bilibili.com/video/BV1hKyZYcEGb/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+#### 24. [go协程池的设计与实现](https://www.bilibili.com/video/BV1QJ4m1374w/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
+
+
 ---
 ## 百度
 
