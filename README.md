@@ -50,10 +50,8 @@
   </tr>
 </table>
 
-
-
-
-
+---
+> 更多企业面试题如下
 
 
 ### **面试题（含视频讲解版）**
@@ -118,9 +116,6 @@
 
 
 
-
----
-
 ## <h3 id="1">阿里（含视频讲解）</h3> 
 
 #### 1.  [C++ Pimpl了解吗？有什么好处？](https://www.bilibili.com/video/BV1eU3RztEDB/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
@@ -142,7 +137,6 @@
 #### 9. [golang 互斥锁的基本原理](https://www.bilibili.com/video/BV1x32wYTEwj/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
 
----
 
 ## <h3 id="2">腾讯（含视频讲解）</h3> 
 
@@ -224,7 +218,6 @@
 
 #### 39. [Redis MySQL数据一致性](https://www.bilibili.com/video/BV1ZS421977Y/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
----
 ## <h3 id="3">百度（含视频讲解）</h3> 
 
 #### 1. [并发与并行的区别？](https://www.bilibili.com/video/BV1z251zUEqk/?spm_id_from=333.1387.upload.video_card.click&vd_source=b638fdfb9e01b75cd34cc317156b7a8e)
@@ -333,7 +326,6 @@
 
 #### 52. [golang GMP模型 Work Stealing偷多少？](https://www.bilibili.com/video/BV1d3pEeoENy/?spm_id_from=333.1387.upload.video_card.click&vd_source=1680a6fedc2270f3c093e88857407609)
 
----
 
 ## <h3 id="4">网易（含视频讲解）</h3> 
 
@@ -1051,6 +1043,8 @@
 
 ---
 ---
+
+# 以下为文字版讲解的各大中小厂面试题
 
 ## 百度（含文字讲解）
 
