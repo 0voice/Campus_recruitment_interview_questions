@@ -1052,7 +1052,8 @@
 ---
 ---
 
-# 以下为文字版讲解的各大中小厂面试题
+
+> 以下为文字版讲解的各大中小厂面试题
 
 ## 百度（含文字讲解）
 
@@ -1270,7 +1271,6 @@
 
 #### [106. 多核 CPU 处理同一块数据时如何同步？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%99%BE%E5%BA%A6/readme.md)
 
----
 
 ## 腾讯（含文字讲解）
 
@@ -1478,7 +1478,7 @@
 
 #### [102. 算法题：最长无重复字符子串（滑动窗口）](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
----
+
 
 ## 阿里（含文字讲解）
 
@@ -1592,8 +1592,6 @@
 
 #### [55. 如何手写一个简单的 RPC 框架？](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E8%85%BE%E8%AE%AF/readme.md)
 
----
-
 ## 京东（含文字讲解）
 
 #### [1. 分布式锁、Redisson 的实现](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
@@ -1676,7 +1674,6 @@
 
 #### [40. 手撕：找到数组中重复的数字和出现次数](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E4%BA%AC%E4%B8%9C/readme.md)
 
----
 
 ## 网易（含文字讲解）
 
@@ -1782,7 +1779,6 @@
 
 #### [51. extends 关键字](https://github.com/0voice/Campus_recruitment_interview_questions/blob/main/%E7%BD%91%E6%98%93/readme.md)
 
----
 
 ## 搜狐（含文字讲解）
 
